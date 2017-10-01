@@ -1,0 +1,32 @@
+"Length3Transition_oss_Proportion"
+"TimeFactor" 0
+"GroupControl_Dark" 2.22436598921375
+"TimeFactor:GroupControl_Dark" 0
+"Light_Length3Transition_oss_Proportion"
+2
+1
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+2
+"Dark_Length3Transition_oss_Proportion"
+2
+2
+3
+4
+3
+3
+3
+5
+3
+4
+4
+5
+3

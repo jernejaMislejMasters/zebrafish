@@ -1,0 +1,32 @@
+"Length2BoutGBendsProportion"
+"TimeFactor" 0
+"GroupControl_DarkPTZ" -0.244236466273384
+"TimeFactor:GroupControl_DarkPTZ" 0
+"Dark_Length2BoutGBendsProportion"
+24
+21
+19
+19
+18
+19
+16
+18
+17
+19
+20
+16
+17
+"DarkPTZ_Length2BoutGBendsProportion"
+15
+12
+15
+13
+14
+14
+17
+17
+15
+15
+19
+16
+14

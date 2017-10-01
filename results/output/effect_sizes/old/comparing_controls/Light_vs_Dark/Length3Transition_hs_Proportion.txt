@@ -1,0 +1,4 @@
+"Length3Transition_hs_Proportion"
+"TimeFactor" 0
+"GroupControl_Dark" 0.294820507216055
+"TimeFactor:GroupControl_Dark" 0

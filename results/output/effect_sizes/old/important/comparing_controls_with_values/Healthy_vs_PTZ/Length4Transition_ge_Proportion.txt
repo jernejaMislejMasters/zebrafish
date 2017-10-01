@@ -1,0 +1,32 @@
+"Length4Transition_ge_Proportion"
+"TimeFactor" -0.999935034819785
+"GroupControl_DarkPTZ" 44996824968.8444
+"TimeFactor:GroupControl_DarkPTZ" 15391.8611709873
+"Dark_Length4Transition_ge_Proportion"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"DarkPTZ_Length4Transition_ge_Proportion"
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1

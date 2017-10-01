@@ -1,0 +1,88 @@
+"TotalBoutCount"
+"TimeFactor" -0.15971524653954
+"GroupAripiprazole_10microM" -0.433204163267968
+"GroupAripiprazole_1microM" 0
+"GroupAripiprazole_3microM" 0
+"GroupCariprazine_10microM" -0.389825855742389
+"GroupCariprazine_1microM" 0
+"GroupCariprazine_3microM" 0
+"GroupClozapine_10microM" 0
+"GroupClozapine_1microM" 0
+"GroupClozapine_3microM" 0
+"GroupCNO_10microM" 0
+"GroupCNO_1microM" -0.342994955402076
+"GroupCNO_3microM" 0
+"GroupHaloperidol_10microM" 0
+"GroupHaloperidol_1microM" 0
+"GroupHaloperidol_3microM" 0
+"GroupNDMC_10microM" 0
+"GroupNDMC_1microM" 0
+"GroupNDMC_3microM" 0
+"GroupNDMCHigh_100microM" -0.397961448418769
+"GroupNDMCHigh_25microM" 0
+"GroupNDMCHigh_50microM" 0
+"GroupOSU6162_10microM" 0
+"GroupOSU6162_1microM" 0
+"GroupOSU6162_3microM" 0.644554333528264
+"GroupPCAP1_10microM" -0.605686807777225
+"GroupPCAP1_1microM" -0.743548439427995
+"GroupPCAP1_3microM" -0.685242341023391
+"GroupPCAP2_10microM" 0
+"GroupPCAP2_1microM" 0
+"GroupPCAP2_3microM" 0.608374601686007
+"GroupPCAP814_10microM" 0
+"GroupPCAP814_1microM" 0
+"GroupPCAP814_3microM" 0
+"GroupPCAP931_10microM" 0.59004000010947
+"GroupPCAP931_1microM" 0.688556016604823
+"GroupPCAP931_3microM" 0
+"TimeFactor:GroupAripiprazole_10microM" 0.107331608784407
+"TimeFactor:GroupAripiprazole_1microM" 0.0721839445028944
+"TimeFactor:GroupAripiprazole_3microM" 0
+"TimeFactor:GroupCariprazine_10microM" 0.0942487282709761
+"TimeFactor:GroupCariprazine_1microM" 0
+"TimeFactor:GroupCariprazine_3microM" 0
+"TimeFactor:GroupClozapine_10microM" 0
+"TimeFactor:GroupClozapine_1microM" 0
+"TimeFactor:GroupClozapine_3microM" 0
+"TimeFactor:GroupCNO_10microM" 0
+"TimeFactor:GroupCNO_1microM" 0
+"TimeFactor:GroupCNO_3microM" 0
+"TimeFactor:GroupHaloperidol_10microM" 0.0892851513278519
+"TimeFactor:GroupHaloperidol_1microM" 0
+"TimeFactor:GroupHaloperidol_3microM" 0
+"TimeFactor:GroupNDMC_10microM" 0
+"TimeFactor:GroupNDMC_1microM" 0
+"TimeFactor:GroupNDMC_3microM" 0
+"TimeFactor:GroupNDMCHigh_100microM" 0.0845765891159314
+"TimeFactor:GroupNDMCHigh_25microM" 0
+"TimeFactor:GroupNDMCHigh_50microM" 0
+"TimeFactor:GroupOSU6162_10microM" -0.0893668461204122
+"TimeFactor:GroupOSU6162_1microM" 0
+"TimeFactor:GroupOSU6162_3microM" -0.088084054913106
+"TimeFactor:GroupPCAP1_10microM" 0.0780760678675796
+"TimeFactor:GroupPCAP1_1microM" 0.118563891964978
+"TimeFactor:GroupPCAP1_3microM" 0
+"TimeFactor:GroupPCAP2_10microM" -0.0702237543030186
+"TimeFactor:GroupPCAP2_1microM" 0
+"TimeFactor:GroupPCAP2_3microM" -0.0749635267093698
+"TimeFactor:GroupPCAP814_10microM" 0
+"TimeFactor:GroupPCAP814_1microM" 0
+"TimeFactor:GroupPCAP814_3microM" -0.0802928403793403
+"TimeFactor:GroupPCAP931_10microM" -0.0827174625496087
+"TimeFactor:GroupPCAP931_1microM" 0
+"TimeFactor:GroupPCAP931_3microM" 0
+"Control_values"
+457
+352
+263
+197
+154
+126
+102
+97
+84
+85
+81
+80
+80

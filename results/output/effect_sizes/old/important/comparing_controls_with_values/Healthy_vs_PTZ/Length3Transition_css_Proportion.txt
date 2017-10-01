@@ -1,0 +1,32 @@
+"Length3Transition_css_Proportion"
+"TimeFactor" -0.0581336806431773
+"GroupControl_DarkPTZ" 0
+"TimeFactor:GroupControl_DarkPTZ" 0
+"Dark_Length3Transition_css_Proportion"
+6
+8
+10
+10
+9
+10
+7
+9
+7
+6
+9
+7
+7
+"DarkPTZ_Length3Transition_css_Proportion"
+14
+16
+14
+10
+9
+9
+10
+9
+8
+7
+11
+9
+8

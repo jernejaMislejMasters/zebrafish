@@ -1,0 +1,32 @@
+"Length2Transition_js_Proportion"
+"TimeFactor" -0.11188627970578
+"GroupControl_DarkApoLow" 0
+"TimeFactor:GroupControl_DarkApoLow" 0
+"Dark_Length2Transition_js_Proportion"
+2
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+1
+"DarkApoLow_Length2Transition_js_Proportion"
+5
+5
+8
+6
+3
+3
+2
+6
+2
+2
+2
+3
+4

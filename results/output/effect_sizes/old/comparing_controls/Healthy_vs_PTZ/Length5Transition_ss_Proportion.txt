@@ -1,0 +1,4 @@
+"Length5Transition_ss_Proportion"
+"TimeFactor" -0.0212294830892032
+"GroupControl_DarkPTZ" 0
+"TimeFactor:GroupControl_DarkPTZ" 0

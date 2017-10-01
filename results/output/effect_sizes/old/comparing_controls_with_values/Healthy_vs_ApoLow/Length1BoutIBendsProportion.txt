@@ -1,0 +1,32 @@
+"Length1BoutIBendsProportion"
+"TimeFactor" -0.0364574978483914
+"GroupControl_DarkApoLow" 0
+"TimeFactor:GroupControl_DarkApoLow" 0
+"Dark_Length1BoutIBendsProportion"
+17
+21
+21
+21
+21
+20
+19
+18
+18
+16
+16
+17
+17
+"DarkApoLow_Length1BoutIBendsProportion"
+21
+21
+20
+18
+14
+15
+14
+15
+13
+16
+11
+14
+14

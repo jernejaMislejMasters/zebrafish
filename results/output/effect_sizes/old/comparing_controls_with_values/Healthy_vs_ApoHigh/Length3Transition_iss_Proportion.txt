@@ -1,0 +1,32 @@
+"Length3Transition_iss_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" -0.459497974253135
+"TimeFactor:GroupControl_DarkApoHigh" 0
+"Dark_Length3Transition_iss_Proportion"
+11
+14
+13
+11
+13
+12
+15
+12
+12
+10
+9
+10
+7
+"DarkApoHigh_Length3Transition_iss_Proportion"
+9
+11
+14
+15
+15
+14
+13
+11
+9
+9
+8
+7
+5

@@ -1,0 +1,24 @@
+models:
+
+
+
+per length bout count is taken as proportion of total bout count , not adjusting for anything in the model:
+
+glm("per length bout count"~TimeFactor+Group+TimeFactor*Group, family = quasipoisson)
+
+
+
+
+turn proportion per length is adjusted for total count of bouts of length n:
+
+glm("per length turn proportion"~TimeFactor+Group+TimeFactor*Group+"total count of length n bouts", 
+			family = quasipoisson)
+
+
+
+
+turn transitions per length is adjusted for total count of bouts of length n and turn proportion per length n, depending on the unique occurences of turns
+in the transitions:
+
+glm("turn transitions per length"~TimeFactor+Group+TimeFactor*Group+"total count of length n bouts"+"per length turn proportion/s", 
+			family = quasipoisson)

@@ -1,0 +1,4 @@
+"Length2Transition_es_Proportion"
+"TimeFactor" -0.102684448853041
+"GroupControl_DarkApoLow" -0.798149199837393
+"TimeFactor:GroupControl_DarkApoLow" 0.106218648514914

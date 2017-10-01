@@ -1,0 +1,4 @@
+"Length6PlusTransition_gg_Proportion"
+"TimeFactor" -0.236935898865631
+"GroupControl_Dark" 0
+"TimeFactor:GroupControl_Dark" 0

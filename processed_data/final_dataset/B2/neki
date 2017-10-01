@@ -1,0 +1,74 @@
+Control_healthy	black	toroot
+Aripiprazole_10microM_healthy	green	toroot
+Aripiprazole_1microM_healthy	green	toroot
+Aripiprazole_3microM_healthy	green	toroot
+Cariprazine_10microM_healthy	green	toroot
+Cariprazine_1microM_healthy	green	toroot
+Cariprazine_3microM_healthy	green	toroot
+Clozapine_10microM_healthy	green	toroot
+Clozapine_1microM_healthy	green	toroot
+Clozapine_3microM_healthy	green	toroot
+CNO_10microM_healthy	green	toroot
+CNO_1microM_healthy	green	toroot
+CNO_3microM_healthy	green	toroot
+Haloperidol_10microM_healthy	green	toroot
+Haloperidol_1microM_healthy	green	toroot
+Haloperidol_3microM_healthy	green	toroot
+NDMC_10microM_healthy	green	toroot
+NDMC_1microM_healthy	green	toroot
+NDMC_3microM_healthy	green	toroot
+NDMCHigh_100microM_healthy	green	toroot
+NDMCHigh_25microM_healthy	green	toroot
+NDMCHigh_50microM_healthy	green	toroot
+OSU6162_10microM_healthy	green	toroot
+OSU6162_1microM_healthy	green	toroot
+OSU6162_3microM_healthy	green	toroot
+PCAP1_10microM_healthy	green	toroot
+PCAP1_1microM_healthy	green	toroot
+PCAP1_3microM_healthy	green	toroot
+PCAP2_10microM_healthy	green	toroot
+PCAP2_1microM_healthy	green	toroot
+PCAP2_3microM_healthy	green	toroot
+PCAP3_10microM_healthy	green	toroot
+PCAP3_1microM_healthy	green	toroot
+PCAP3_3microM_healthy	green	toroot
+PCAP4_10microM_healthy	green	toroot
+PCAP4_1microM_healthy	green	toroot
+PCAP4_3microM_healthy	green	toroot
+Aripiprazole_10microM_hyperactive type II	turquoise	toroot
+Aripiprazole_1microM_hyperactive type II	turquoise	toroot
+Aripiprazole_3microM_hyperactive type II	turquoise	toroot
+Cariprazine_10microM_hyperactive type II	turquoise	toroot
+Cariprazine_1microM_hyperactive type II	turquoise	toroot
+Cariprazine_3microM_hyperactive type II	turquoise	toroot
+Clozapine_10microM_hyperactive type II	turquoise	toroot
+Clozapine_1microM_hyperactive type II	turquoise	toroot
+Clozapine_3microM_hyperactive type II	turquoise	toroot
+CNO_10microM_hyperactive type II	turquoise	toroot
+CNO_1microM_hyperactive type II	turquoise	toroot
+CNO_3microM_hyperactive type II	turquoise	toroot
+Control_hyperactive type II	orange	toroot
+Haloperidol_10microM_hyperactive type II	turquoise	toroot
+Haloperidol_1microM_hyperactive type II	turquoise	toroot
+Haloperidol_3microM_hyperactive type II	turquoise	toroot
+NDMC_10microM_hyperactive type II	turquoise	toroot
+NDMC_1microM_hyperactive type II	turquoise	toroot
+NDMC_3microM_hyperactive type II	turquoise	toroot
+NDMCHigh_100microM_hyperactive type II	turquoise	toroot
+NDMCHigh_25microM_hyperactive type II	turquoise	toroot
+NDMCHigh_50microM_hyperactive type II	turquoise	toroot
+OSU6162_10microM_hyperactive type II	turquoise	toroot
+OSU6162_1microM_hyperactive type II	turquoise	toroot
+OSU6162_3microM_hyperactive type II	turquoise	toroot
+PCAP1_10microM_hyperactive type II	turquoise	toroot
+PCAP1_1microM_hyperactive type II	turquoise	toroot
+PCAP1_3microM_hyperactive type II	turquoise	toroot
+PCAP2_10microM_hyperactive type II	turquoise	toroot
+PCAP2_1microM_hyperactive type II	turquoise	toroot
+PCAP2_3microM_hyperactive type II	turquoise	toroot
+PCAP3_10microM_hyperactive type II	turquoise	toroot
+PCAP3_1microM_hyperactive type II	turquoise	toroot
+PCAP3_3microM_hyperactive type II	turquoise	toroot
+PCAP4_10microM_hyperactive type II	turquoise	toroot
+PCAP4_1microM_hyperactive type II	turquoise	toroot
+PCAP4_3microM_hyperactive type II	turquoise	toroot

@@ -1,0 +1,4 @@
+"Length6PlusTransition_si_Proportion"
+"TimeFactor" -0.617427251459125
+"GroupControl_DarkApoHigh" 0
+"TimeFactor:GroupControl_DarkApoHigh" 1.55468878483631

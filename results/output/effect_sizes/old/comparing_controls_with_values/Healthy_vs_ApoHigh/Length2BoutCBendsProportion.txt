@@ -1,0 +1,32 @@
+"Length2BoutCBendsProportion"
+"TimeFactor" -0.0891586734628058
+"GroupControl_DarkApoHigh" 0
+"TimeFactor:GroupControl_DarkApoHigh" 0
+"Dark_Length2BoutCBendsProportion"
+2
+2
+3
+3
+2
+2
+2
+2
+3
+2
+3
+2
+1
+"DarkApoHigh_Length2BoutCBendsProportion"
+8
+4
+4
+3
+3
+3
+3
+3
+2
+3
+2
+3
+2

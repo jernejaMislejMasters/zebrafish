@@ -1,0 +1,4 @@
+"Length1BoutGBendsProportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" -0.28868755229122
+"TimeFactor:GroupControl_DarkApoHigh" 0

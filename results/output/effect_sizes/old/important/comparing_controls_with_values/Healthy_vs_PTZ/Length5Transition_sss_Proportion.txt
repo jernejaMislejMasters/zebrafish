@@ -1,0 +1,32 @@
+"Length5Transition_sss_Proportion"
+"TimeFactor" -0.0188828865286177
+"GroupControl_DarkPTZ" 0
+"TimeFactor:GroupControl_DarkPTZ" 0
+"Dark_Length5Transition_sss_Proportion"
+64
+60
+57
+60
+53
+50
+48
+48
+45
+49
+52
+49
+53
+"DarkPTZ_Length5Transition_sss_Proportion"
+60
+51
+49
+45
+47
+47
+41
+45
+41
+48
+49
+46
+41

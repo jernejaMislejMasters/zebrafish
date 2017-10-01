@@ -1,0 +1,4 @@
+"Length3BoutScootsProportion"
+"TimeFactor" 0.00554748958355256
+"GroupControl_DarkApoLow" 0
+"TimeFactor:GroupControl_DarkApoLow" 0

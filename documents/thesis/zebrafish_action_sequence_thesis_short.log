@@ -1,0 +1,1257 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.29)  19 SEP 2017 22:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input{zebrafish_action_sequence_thesis_short.tex}
+(./zebrafish_action_sequence_thesis_short.tex
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./a4wide.sty
+Package: a4wide 1994/08/30
+
+(./a4.sty
+Package: a4 1999/03/03 v1.2f A4 based page layout
+)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count87
+\Hy@pagecounter=\count88
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count91
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+\c@bookmark@seq@number=\count96
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)) (./xcolor.sty
+Package: xcolor 2004/07/04 v2.00 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `xcdraw' ignored on input line 128.
+Package xcolor Info: Driver file: pdftex.def on input line 136.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count97
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks17
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+\everycr=\toks18
+\minrowclearance=\skip46
+)
+Package xcolor Info: Color model `cmy' added on input line 972.
+Package xcolor Info: Color model `hsb' added on input line 980.
+Package xcolor Info: Color model `HTML' added on input line 1000.
+Package xcolor Info: Color model `HSB' added on input line 1006.
+Package xcolor Info: Color model `Gray' added on input line 1012.
+) (./multirow.sty
+\bigstrutjot=\dimen109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count98
+\calc@Bcount=\count99
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count100
+\calc@Cskip=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks19
+\c@AM@survey=\count101
+\AM@templatesizebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen114
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip11
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks21
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks22
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks23
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(./zebrafish_action_sequence_thesis_short.aux)
+\openout1 = `zebrafish_action_sequence_thesis_short.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 27.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count114
+)
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
+
+(./zebrafish_action_sequence_thesis_short.out)
+(./zebrafish_action_sequence_thesis_short.out)
+\@outlinefile=\write3
+\openout3 = `zebrafish_action_sequence_thesis_short.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen123
+\scratchbox=\box31
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen124
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks26
+)
+\rownum=\count121
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<Lund_University_logotype.png, id=56, 282.05376pt x 355.3275pt>
+File: Lund_University_logotype.png Graphic file (type png)
+
+<use Lund_University_logotype.png>
+Package pdftex.def Info: Lund_University_logotype.png used on input line 50.
+(pdftex.def)             Requested size: 90.3408pt x 113.81102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Lund_University_logotype
+.png>]pdfTeX warning (ext4): destination with the same identifier (name{page.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74 \newpage
+              [1] (./zebrafish_action_sequence_thesis_short.toc)
+\tf@toc=\write4
+\openout4 = `zebrafish_action_sequence_thesis_short.toc'.
+
+
+(./zebrafish_action_sequence_thesis_short.lof)
+\tf@lof=\write5
+\openout5 = `zebrafish_action_sequence_thesis_short.lof'.
+
+
+(./zebrafish_action_sequence_thesis_short.lot)
+\tf@lot=\write6
+\openout6 = `zebrafish_action_sequence_thesis_short.lot'.
+
+ [2]
+
+LaTeX Warning: Citation `ref1' on page 3 undefined on input line 84.
+
+
+LaTeX Warning: Citation `ref3' on page 3 undefined on input line 84.
+
+
+LaTeX Warning: Citation `ref4' on page 3 undefined on input line 87.
+
+
+LaTeX Warning: Citation `ref1' on page 3 undefined on input line 92.
+
+<drug_trial_example.jpg, id=77, 1988.42876pt x 1049.9225pt>
+File: drug_trial_example.jpg Graphic file (type jpg)
+
+<use drug_trial_example.jpg>
+Package pdftex.def Info: drug_trial_example.jpg used on input line 95.
+(pdftex.def)             Requested size: 426.77567pt x 199.16693pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 97.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
+
+
+LaTeX Warning: Citation `ref1' on page 3 undefined on input line 97.
+
+
+LaTeX Warning: Citation `ref1' on page 3 undefined on input line 97.
+
+
+LaTeX Warning: Citation `ref5' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `ref8' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `ref9' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `ref10' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `ref11' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `ref16' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `ref16' on page 3 undefined on input line 102.
+
+
+LaTeX Warning: Citation `ref12' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref11' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref13' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref14' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref13' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref15' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref17' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref18' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref9' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref19' on page 3 undefined on input line 103.
+
+
+LaTeX Warning: Citation `ref20' on page 3 undefined on input line 103.
+
+<ZEBRAFISH_C_ESCAPE.jpg, id=78, 91.542pt x 27.2217pt>
+File: ZEBRAFISH_C_ESCAPE.jpg Graphic file (type jpg)
+
+<use ZEBRAFISH_C_ESCAPE.jpg>
+Package pdftex.def Info: ZEBRAFISH_C_ESCAPE.jpg used on input line 106.
+(pdftex.def)             Requested size: 227.64758pt x 85.36699pt.
+
+
+LaTeX Warning: Citation `ref21' on page 3 undefined on input line 107.
+
+
+LaTeX Warning: Citation `ref21' on page 3 undefined on input line 107.
+
+
+LaTeX Warning: Citation `ref22' on page 3 undefined on input line 111.
+
+
+LaTeX Warning: Citation `ref23' on page 3 undefined on input line 111.
+
+
+LaTeX Warning: Citation `ref24' on page 3 undefined on input line 111.
+
+
+LaTeX Warning: Citation `ref25' on page 3 undefined on input line 112.
+
+
+LaTeX Warning: Citation `ref26' on page 3 undefined on input line 112.
+
+[3 <./drug_trial_example.jpg>] [4 <./ZEBRAFISH_C_ESCAPE.jpg>]
+
+LaTeX Warning: Citation `ref17' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref18' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref27' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref28' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref29' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref30' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref31' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref32' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref33' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref34' on page 5 undefined on input line 116.
+
+
+LaTeX Warning: Citation `ref34' on page 5 undefined on input line 116.
+
+<expdesignComb.png, id=91, 2158.0625pt x 1589.94pt>
+File: expdesignComb.png Graphic file (type png)
+ <use expdesignComb.png>
+Package pdftex.def Info: expdesignComb.png used on input line 120.
+(pdftex.def)             Requested size: 483.69907pt x 355.65892pt.
+
+Overfull \hbox (22.97783pt too wide) in paragraph at lines 120--121
+ [] 
+ []
+
+
+Overfull \hbox (26.1672pt too wide) in paragraph at lines 116--126
+\OT1/cmr/m/n/12 (CNO)[[]], Haloperidol[[]], N-desmethylclozapine(NDMC)[[]], OSU
+6162[[]], PCAP1[[]], PCAP2[[]]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--126
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
+
+LaTeX Warning: Citation `ref18' on page 6 undefined on input line 128.
+
+[6 <./expdesignComb.png (PNG copy)>]
+<action_seq_ex.png, id=103, 1588.93625pt x 413.545pt>
+File: action_seq_ex.png Graphic file (type png)
+ <use action_seq_ex.png>
+Package pdftex.def Info: action_seq_ex.png used on input line 145.
+(pdftex.def)             Requested size: 455.22757pt x 113.81041pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7] [8 <./action_seq_ex.png (PNG copy)>]
+
+LaTeX Warning: Citation `ref35' on page 9 undefined on input line 192.
+
+
+LaTeX Warning: Citation `ref36' on page 9 undefined on input line 193.
+
+[9]
+
+LaTeX Warning: Citation `ref37' on page 10 undefined on input line 196.
+
+
+LaTeX Warning: Citation `ref38' on page 10 undefined on input line 196.
+
+
+LaTeX Warning: Citation `ref39' on page 10 undefined on input line 196.
+
+[10]
+
+LaTeX Warning: Citation `ref40' on page 11 undefined on input line 200.
+
+
+Overfull \hbox (20.52391pt too wide) in paragraph at lines 206--212
+ [] 
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 223.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 223.
+ [11] [12]
+<outliersEx.png, id=134, 1001.7425pt x 883.3pt>
+File: outliersEx.png Graphic file (type png)
+ <use outliersEx.png>
+Package pdftex.def Info: outliersEx.png used on input line 243.
+(pdftex.def)             Requested size: 284.52132pt x 284.52174pt.
+ [13 <./outliersEx.png>] [14]
+<Aripiprazole_Control_DarkApoLow.png, id=144, 1505.625pt x 752.8125pt>
+File: Aripiprazole_Control_DarkApoLow.png Graphic file (type png)
+
+<use Aripiprazole_Control_DarkApoLow.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoLow.png used on input line
+ 260.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+<Aripiprazole_Control_DarkApoHigh.png, id=145, 1505.625pt x 752.8125pt>
+File: Aripiprazole_Control_DarkApoHigh.png Graphic file (type png)
+
+<use Aripiprazole_Control_DarkApoHigh.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoHigh.png used on input lin
+e 261.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [15 <./Aripiprazole_Control_DarkApoLow.png> <./Aripiprazole_Control_DarkApoHig
+h.png>]
+<Aripiprazole_Control_DarkPTZ.png, id=152, 1505.625pt x 752.8125pt>
+File: Aripiprazole_Control_DarkPTZ.png Graphic file (type png)
+
+<use Aripiprazole_Control_DarkPTZ.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkPTZ.png used on input line 26
+7.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 \\A
+         lthough the four different clusters(the control in the healthy cond...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./Aripiprazole_Control_DarkPTZ.png>]
+
+LaTeX Warning: Citation `ref18' on page 17 undefined on input line 295.
+
+
+LaTeX Warning: Citation `ref19' on page 17 undefined on input line 295.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--297
+
+ []
+
+[17]
+<Aripiprazole_Control_DarkApoLow_turn_only.png, id=165, 1505.625pt x 752.8125pt
+>
+File: Aripiprazole_Control_DarkApoLow_turn_only.png Graphic file (type png)
+ <use Aripiprazole_Control_DarkApoLow_turn_only.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoLow_turn_only.png used on 
+input line 300.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+<Aripiprazole_Control_DarkApoHigh_turn_only.png, id=166, 1505.625pt x 752.8125p
+t>
+File: Aripiprazole_Control_DarkApoHigh_turn_only.png Graphic file (type png)
+ <use Aripiprazole_Control_DarkApoHigh_turn_only.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoHigh_turn_only.png used on
+ input line 301.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [18 <./Aripiprazole_Control_DarkApoLow_turn_only.png (PNG copy)> <./Aripiprazo
+le_Control_DarkApoHigh_turn_only.png>]
+<Aripiprazole_Control_DarkPTZ_turn_only.png, id=173, 1505.625pt x 752.8125pt>
+File: Aripiprazole_Control_DarkPTZ_turn_only.png Graphic file (type png)
+
+<use Aripiprazole_Control_DarkPTZ_turn_only.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkPTZ_turn_only.png used on inp
+ut line 307.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [19 <./Aripiprazole_Control_DarkPTZ_turn_only.png (PNG copy)>] [20]
+<Aripiprazole_Control_DarkApoLow_stratified.png, id=184, 1505.625pt x 752.8125p
+t>
+File: Aripiprazole_Control_DarkApoLow_stratified.png Graphic file (type png)
+ <use Aripiprazole_Control_DarkApoLow_stratified.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoLow_stratified.png used on
+ input line 339.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+<Aripiprazole_Control_DarkApoHigh_stratified.png, id=185, 1505.625pt x 752.8125
+pt>
+File: Aripiprazole_Control_DarkApoHigh_stratified.png Graphic file (type png)
+ <use Aripiprazole_Control_DarkApoHigh_stratified.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoHigh_stratified.png used o
+n input line 340.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [21 <./Aripiprazole_Control_DarkApoLow_stratified.png (PNG copy)> <./Aripipraz
+ole_Control_DarkApoHigh_stratified.png (PNG copy)>]
+<Aripiprazole_Control_DarkPTZ_stratified.png, id=190, 1505.625pt x 752.8125pt>
+File: Aripiprazole_Control_DarkPTZ_stratified.png Graphic file (type png)
+
+<use Aripiprazole_Control_DarkPTZ_stratified.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkPTZ_stratified.png used on in
+put line 347.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [22 <./Aripiprazole_Control_DarkPTZ_stratified.png (PNG copy)>]
+Overfull \hbox (23.01183pt too wide) in paragraph at lines 356--371
+ [][] 
+ []
+
+[23]
+<Aripiprazole_Control_DarkApoLow_turn_only_stratified.png, id=201, 1505.625pt x
+ 752.8125pt>
+File: Aripiprazole_Control_DarkApoLow_turn_only_stratified.png Graphic file (ty
+pe png)
+ <use Aripiprazole_Control_DarkApoLow_turn_only_stratified.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoLow_turn_only_stratified.p
+ng used on input line 377.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+<Aripiprazole_Control_DarkApoHigh_turn_only_stratified.png, id=202, 1505.625pt 
+x 752.8125pt>
+File: Aripiprazole_Control_DarkApoHigh_turn_only_stratified.png Graphic file (t
+ype png)
+ <use Aripiprazole_Control_DarkApoHigh_turn_only_stratified.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkApoHigh_turn_only_stratified.
+png used on input line 378.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+[24 <./Aripiprazole_Control_DarkApoLow_turn_only_stratified.png> <./Aripiprazol
+e_Control_DarkApoHigh_turn_only_stratified.png>]
+<Aripiprazole_Control_DarkPTZ_turn_only_stratified.png, id=210, 1505.625pt x 75
+2.8125pt>
+File: Aripiprazole_Control_DarkPTZ_turn_only_stratified.png Graphic file (type 
+png)
+ <use Aripiprazole_Control_DarkPTZ_turn_only_stratified.png>
+Package pdftex.def Info: Aripiprazole_Control_DarkPTZ_turn_only_stratified.png 
+used on input line 384.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [25 <./Aripiprazole_Control_DarkPTZ_turn_only_stratified.png>]
+Overfull \hbox (13.9564pt too wide) in paragraph at lines 393--408
+ [][] 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.410 \\\\
+          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 P
+       CA results were summarized in order to present all compounds at once....
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[26]
+<All_together_1_microM_DarkPTZ_in_time_set3.png, id=222, 1505.625pt x 752.8125p
+t>
+File: All_together_1_microM_DarkPTZ_in_time_set3.png Graphic file (type png)
+ <use All_together_1_microM_DarkPTZ_in_time_set3.png>
+Package pdftex.def Info: All_together_1_microM_DarkPTZ_in_time_set3.png used on
+ input line 415.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+<All_together_3_microM_DarkPTZ_in_time_set3.png, id=223, 1505.625pt x 752.8125p
+t>
+File: All_together_3_microM_DarkPTZ_in_time_set3.png Graphic file (type png)
+ <use All_together_3_microM_DarkPTZ_in_time_set3.png>
+Package pdftex.def Info: All_together_3_microM_DarkPTZ_in_time_set3.png used on
+ input line 416.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [27 <./All_together_1_microM_DarkPTZ_in_time_set3.png> <./All_together_3_micro
+M_DarkPTZ_in_time_set3.png>]
+<All_together_10_microM_DarkPTZ_in_time_set3.png, id=230, 1505.625pt x 752.8125
+pt>
+File: All_together_10_microM_DarkPTZ_in_time_set3.png Graphic file (type png)
+ <use All_together_10_microM_DarkPTZ_in_time_set3.png>
+Package pdftex.def Info: All_together_10_microM_DarkPTZ_in_time_set3.png used o
+n input line 422.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.427 \\S
+         econd, the direction of change in dosage was plotted for all compou...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[28 <./All_together_10_microM_DarkPTZ_in_time_set3.png>]
+<All_together_doses_DarkApoLowset3.png, id=237, 1505.625pt x 752.8125pt>
+File: All_together_doses_DarkApoLowset3.png Graphic file (type png)
+
+<use All_together_doses_DarkApoLowset3.png>
+Package pdftex.def Info: All_together_doses_DarkApoLowset3.png used on input li
+ne 431.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+<All_together_doses_DarkApoHighset3.png, id=238, 1505.625pt x 752.8125pt>
+File: All_together_doses_DarkApoHighset3.png Graphic file (type png)
+
+<use All_together_doses_DarkApoHighset3.png>
+Package pdftex.def Info: All_together_doses_DarkApoHighset3.png used on input l
+ine 432.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [29 <./All_together_doses_DarkApoLowset3.png> <./All_together_doses_DarkApoHig
+hset3.png>]
+<All_together_doses_DarkPTZset3.png, id=245, 1505.625pt x 752.8125pt>
+File: All_together_doses_DarkPTZset3.png Graphic file (type png)
+
+<use All_together_doses_DarkPTZset3.png>
+Package pdftex.def Info: All_together_doses_DarkPTZset3.png used on input line 
+438.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.444 \\B
+         y further exploring the results of PCA, compound effects were explo...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[30 <./All_together_doses_DarkPTZset3.png>]
+<Haloperidol_Control_DarkApoLow.png, id=254, 1505.625pt x 752.8125pt>
+File: Haloperidol_Control_DarkApoLow.png Graphic file (type png)
+
+<use Haloperidol_Control_DarkApoLow.png>
+Package pdftex.def Info: Haloperidol_Control_DarkApoLow.png used on input line 
+479.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [31 <./Haloperidol_Control_DarkApoLow.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 484--552
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32] [33] <PCAP814_Control_DarkApoHigh.png, id=273, 1505.625pt x 752.8125pt>
+File: PCAP814_Control_DarkApoHigh.png Graphic file (type png)
+
+<use PCAP814_Control_DarkApoHigh.png>
+Package pdftex.def Info: PCAP814_Control_DarkApoHigh.png used on input line 555
+.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+<PCAP814_Control_DarkPTZ_stratified.png, id=274, 1505.625pt x 752.8125pt>
+File: PCAP814_Control_DarkPTZ_stratified.png Graphic file (type png)
+
+<use PCAP814_Control_DarkPTZ_stratified.png>
+Package pdftex.def Info: PCAP814_Control_DarkPTZ_stratified.png used on input l
+ine 556.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+ [34 <./PCAP814_Control_DarkApoHigh.png> <./PCAP814_Control_DarkPTZ_stratified.
+png>]
+<DarkApoLow_set1_PCA_tree_A.png, id=282, 905.0613pt x 899.7615pt>
+File: DarkApoLow_set1_PCA_tree_A.png Graphic file (type png)
+
+<use DarkApoLow_set1_PCA_tree_A.png>
+Package pdftex.def Info: DarkApoLow_set1_PCA_tree_A.png used on input line 565.
+
+(pdftex.def)             Requested size: 398.33868pt x 398.34009pt.
+ [35 <./DarkApoLow_set1_PCA_tree_A.png>]
+<DarkApoHigh_set1_PCA_tree_A.png, id=288, 889.1619pt x 882.4167pt>
+File: DarkApoHigh_set1_PCA_tree_A.png Graphic file (type png)
+
+<use DarkApoHigh_set1_PCA_tree_A.png>
+Package pdftex.def Info: DarkApoHigh_set1_PCA_tree_A.png used on input line 572
+.
+(pdftex.def)             Requested size: 398.32825pt x 398.33606pt.
+ [36 <./DarkApoHigh_set1_PCA_tree_A.png>]
+<DarkPTZ_set1_PCA_tree_A.png, id=295, 968.6589pt x 961.9137pt>
+File: DarkPTZ_set1_PCA_tree_A.png Graphic file (type png)
+
+<use DarkPTZ_set1_PCA_tree_A.png>
+Package pdftex.def Info: DarkPTZ_set1_PCA_tree_A.png used on input line 579.
+(pdftex.def)             Requested size: 398.33516pt x 398.33545pt.
+
+
+LaTeX Warning: Citation `ref18' on page 37 undefined on input line 585.
+
+[37 <./DarkPTZ_set1_PCA_tree_A.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.601 \\P
+         ublished analyses of bout count, bout distance and turn proportions...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Citation `ref18' on page 38 undefined on input line 601.
+
+[38]
+<DarkApoLow_heatmap_all_DarkApoLow_B2MAP.png, id=307, 1505.625pt x 1003.75pt>
+File: DarkApoLow_heatmap_all_DarkApoLow_B2MAP.png Graphic file (type png)
+
+<use DarkApoLow_heatmap_all_DarkApoLow_B2MAP.png>
+Package pdftex.def Info: DarkApoLow_heatmap_all_DarkApoLow_B2MAP.png used on in
+put line 606.
+(pdftex.def)             Requested size: 455.25195pt x 426.79488pt.
+ [39 <./DarkApoLow_heatmap_all_DarkApoLow_B2MAP.png (PNG copy)>]
+<DarkApoHigh_heatmap_all_DarkApoHigh_B2MAP.png, id=313, 1424.32124pt x 999.735p
+t>
+File: DarkApoHigh_heatmap_all_DarkApoHigh_B2MAP.png Graphic file (type png)
+ <use DarkApoHigh_heatmap_all_DarkApoHigh_B2MAP.png>
+Package pdftex.def Info: DarkApoHigh_heatmap_all_DarkApoHigh_B2MAP.png used on 
+input line 613.
+(pdftex.def)             Requested size: 455.22705pt x 426.79622pt.
+ [40 <./DarkApoHigh_heatmap_all_DarkApoHigh_B2MAP.png (PNG copy)>]
+<DarkPTZ_heatmap_all_DarkPTZ_B2MAP.png, id=319, 1438.37375pt x 1002.74625pt>
+File: DarkPTZ_heatmap_all_DarkPTZ_B2MAP.png Graphic file (type png)
+
+<use DarkPTZ_heatmap_all_DarkPTZ_B2MAP.png>
+Package pdftex.def Info: DarkPTZ_heatmap_all_DarkPTZ_B2MAP.png used on input li
+ne 620.
+(pdftex.def)             Requested size: 455.24101pt x 426.7965pt.
+ [41 <./DarkPTZ_heatmap_all_DarkPTZ_B2MAP.png (PNG copy)>]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 631.
+ [42] [43]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.644 T
+       hese outcomes were summarized to show vectors representing direction ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[44] [45] [46] [47] [48]
+Underfull \hbox (badness 10000) in paragraph at lines 745--746
+[]\OT1/cmr/m/n/12 Package 'gplots' (ac-cessed July 11, 2017) https://cran.r-
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 749.
+[49]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 749.
+ (./zebrafish_action_sequence_thesis_short.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 749.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 749.
+
+
+Package rerunfilecheck Warning: File `zebrafish_action_sequence_thesis_short.ou
+t' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `zebrafish_action_sequence_thesis_sh
+ort.out':
+(rerunfilecheck)             Before: 48B891FC2730F6886E4AD0F028B457AE;872
+(rerunfilecheck)             After:  CC4CDC6E3F7D6BDA248EAE88869A4A76;1108.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 749.
+ ) 
+Here is how much of TeX's memory you used:
+ 7365 strings out of 495028
+ 108891 string characters out of 6181497
+ 203515 words of memory out of 5000000
+ 10302 multiletter control sequences out of 15000+600000
+ 9142 words of font info for 33 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,17n,38p,2738b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb>
+Output written on zebrafish_action_sequence_thesis_short.pdf (50 pages, 8357835
+ bytes).
+PDF statistics:
+ 462 PDF objects out of 1000 (max. 8388607)
+ 350 compressed objects within 4 object streams
+ 144 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+

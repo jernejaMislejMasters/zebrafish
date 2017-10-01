@@ -1,0 +1,39 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methods}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Experimental design}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Data analysis}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Data format}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Descriptive statistics}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Outliers}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Exploratory data analysis}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Mixed effects analysis}{subsection.2.2}% 9
+\BOOKMARK [1][-]{section.3}{Results}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Descriptive statistics}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Outliers detection and removal}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Exploratory data analysis}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{Mixed effects analysis}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Closure}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Discussion}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Conclusions}{section.4}% 17
+\BOOKMARK [1][-]{appendix.A}{Experimental design Appendix}{}% 18
+\BOOKMARK [2][-]{subsection.A.1}{Recording of different condtitions}{appendix.A}% 19
+\BOOKMARK [2][-]{subsection.A.2}{Turn type differentiation}{appendix.A}% 20
+\BOOKMARK [1][-]{appendix.B}{Descriptive statistics Appendix}{}% 21
+\BOOKMARK [2][-]{subsection.B.1}{Bout count}{appendix.B}% 22
+\BOOKMARK [3][-]{subsubsection.B.1.1}{Total bout count per length in each condition}{subsection.B.1}% 23
+\BOOKMARK [3][-]{subsubsection.B.1.2}{Total bout count per length through time, in each condition}{subsection.B.1}% 24
+\BOOKMARK [2][-]{subsection.B.2}{Turn proportions}{appendix.B}% 25
+\BOOKMARK [3][-]{subsubsection.B.2.1}{Turn proportions per bout length in each condition}{subsection.B.2}% 26
+\BOOKMARK [3][-]{subsubsection.B.2.2}{Turn proportions in bout length strata, through the time frames, in each condition}{subsection.B.2}% 27
+\BOOKMARK [2][-]{subsection.B.3}{Transition proportions}{appendix.B}% 28
+\BOOKMARK [3][-]{subsubsection.B.3.1}{Transitions of length 3, in each condition}{subsection.B.3}% 29
+\BOOKMARK [1][-]{appendix.C}{Exploratory data analysis Appendix}{}% 30
+\BOOKMARK [2][-]{subsection.C.1}{PCA plots}{appendix.C}% 31
+\BOOKMARK [2][-]{subsection.C.2}{Most influential variables in PCA}{appendix.C}% 32
+\BOOKMARK [2][-]{subsection.C.3}{Summarized PCA plots, showing direction of change in time}{appendix.C}% 33
+\BOOKMARK [2][-]{subsection.C.4}{Summarized PCA plots, showing direction of change in dosage}{appendix.C}% 34
+\BOOKMARK [2][-]{subsection.C.5}{Compound ranking based on PCA}{appendix.C}% 35
+\BOOKMARK [2][-]{subsection.C.6}{Circular cladograms, based on Euclidean distances between PCs}{appendix.C}% 36
+\BOOKMARK [1][-]{appendix.D}{Mixed effects analysis Appendix}{}% 37
+\BOOKMARK [2][-]{subsection.D.1}{Overall group effects}{appendix.D}% 38
+\BOOKMARK [2][-]{subsection.D.2}{Group and timeframe effects}{appendix.D}% 39

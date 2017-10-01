@@ -1,0 +1,32 @@
+"Length2Transition_os_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkPTZ" 2.09180204490307
+"TimeFactor:GroupControl_DarkPTZ" 0
+"Dark_Length2Transition_os_Proportion"
+1
+2
+2
+2
+3
+2
+3
+2
+3
+2
+3
+2
+2
+"DarkPTZ_Length2Transition_os_Proportion"
+12
+8
+5
+4
+3
+3
+3
+2
+2
+2
+2
+3
+2

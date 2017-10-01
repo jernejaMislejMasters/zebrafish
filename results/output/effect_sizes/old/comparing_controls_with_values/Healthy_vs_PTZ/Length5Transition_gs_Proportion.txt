@@ -1,0 +1,32 @@
+"Length5Transition_gs_Proportion"
+"TimeFactor" -0.0804811153507028
+"GroupControl_DarkPTZ" 0
+"TimeFactor:GroupControl_DarkPTZ" 0.0843814440990729
+"Dark_Length5Transition_gs_Proportion"
+5
+5
+4
+4
+3
+2
+2
+1
+2
+2
+1
+2
+2
+"DarkPTZ_Length5Transition_gs_Proportion"
+5
+2
+4
+4
+3
+4
+4
+4
+5
+4
+4
+5
+4

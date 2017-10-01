@@ -1,0 +1,4 @@
+"TotalBoutCount"
+"TimeFactor" -0.0217702659864641
+"GroupControl_Dark" 0
+"TimeFactor:GroupControl_Dark" -0.141014912710849

@@ -1,0 +1,4 @@
+"Length2Transition_ii_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkPTZ" 97448034284.0345
+"TimeFactor:GroupControl_DarkPTZ" 0

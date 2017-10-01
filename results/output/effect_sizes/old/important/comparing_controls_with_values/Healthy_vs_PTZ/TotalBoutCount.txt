@@ -1,0 +1,32 @@
+"TotalBoutCount"
+"TimeFactor" -0.15971524653954
+"GroupControl_DarkPTZ" -0.667354375550069
+"TimeFactor:GroupControl_DarkPTZ" 0.0889416459913073
+"Dark_TotalBoutCount"
+457
+352
+263
+197
+154
+126
+102
+97
+84
+85
+81
+80
+80
+"DarkPTZ_TotalBoutCount"
+251
+108
+80
+70
+71
+68
+68
+66
+71
+68
+68
+68
+66

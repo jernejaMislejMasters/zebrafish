@@ -1,0 +1,32 @@
+"Length6PlusBoutIBendsProportion"
+"TimeFactor" 0
+"GroupControl_Dark" 0
+"TimeFactor:GroupControl_Dark" -0.100209899600908
+"Light_Length6PlusBoutIBendsProportion"
+8
+6
+7
+5
+4
+6
+6
+6
+7
+4
+4
+5
+4
+"Dark_Length6PlusBoutIBendsProportion"
+7
+7
+5
+2
+4
+1
+1
+1
+1
+2
+0
+1
+2

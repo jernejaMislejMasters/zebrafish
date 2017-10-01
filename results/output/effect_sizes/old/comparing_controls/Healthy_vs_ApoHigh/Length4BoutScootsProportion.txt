@@ -1,0 +1,4 @@
+"Length4BoutScootsProportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" -0.178440697616233
+"TimeFactor:GroupControl_DarkApoHigh" 0

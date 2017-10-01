@@ -1,0 +1,32 @@
+"Length6PlusTransition_gs_Proportion"
+"TimeFactor" 0
+"GroupControl_Dark" 0
+"TimeFactor:GroupControl_Dark" -0.0522909182112103
+"Light_Length6PlusTransition_gs_Proportion"
+2
+3
+3
+2
+3
+2
+2
+2
+2
+2
+2
+2
+1
+"Dark_Length6PlusTransition_gs_Proportion"
+3
+3
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1

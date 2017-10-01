@@ -1,0 +1,32 @@
+"Length5BoutCountProportion"
+"TimeFactor" 0.0837005869142622
+"GroupControl_DarkApoHigh" 1.31893478547606
+"TimeFactor:GroupControl_DarkApoHigh" -0.0772358970041641
+"Dark_Length5BoutCountProportion"
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+"DarkApoHigh_Length5BoutCountProportion"
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1

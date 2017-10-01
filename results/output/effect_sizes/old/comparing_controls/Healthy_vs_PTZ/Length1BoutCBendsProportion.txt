@@ -1,0 +1,4 @@
+"Length1BoutCBendsProportion"
+"TimeFactor" -0.0472040708068007
+"GroupControl_DarkPTZ" 0.556543853425095
+"TimeFactor:GroupControl_DarkPTZ" 0

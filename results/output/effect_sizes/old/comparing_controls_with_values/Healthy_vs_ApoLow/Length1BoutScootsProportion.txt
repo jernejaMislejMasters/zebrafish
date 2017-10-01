@@ -1,0 +1,32 @@
+"Length1BoutScootsProportion"
+"TimeFactor" 0.0429680524533349
+"GroupControl_DarkApoLow" 0
+"TimeFactor:GroupControl_DarkApoLow" 0
+"Dark_Length1BoutScootsProportion"
+32
+29
+32
+32
+35
+41
+42
+44
+46
+49
+49
+50
+51
+"DarkApoLow_Length1BoutScootsProportion"
+27
+26
+30
+37
+36
+42
+39
+40
+40
+41
+45
+41
+43

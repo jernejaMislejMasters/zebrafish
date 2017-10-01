@@ -1,0 +1,4 @@
+"Length3BoutHBendsProportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" 2.28677626136047
+"TimeFactor:GroupControl_DarkApoHigh" 0

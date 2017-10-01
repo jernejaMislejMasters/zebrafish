@@ -1,0 +1,4 @@
+"Length2BoutCountProportion"
+"TimeFactor" 0
+"GroupControl_Dark" 0.285781311108025
+"TimeFactor:GroupControl_Dark" -0.0153079983308668

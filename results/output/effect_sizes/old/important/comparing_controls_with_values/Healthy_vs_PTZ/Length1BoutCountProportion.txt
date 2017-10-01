@@ -1,0 +1,32 @@
+"Length1BoutCountProportion"
+"TimeFactor" 0
+"GroupControl_DarkPTZ" -0.17718769879692
+"TimeFactor:GroupControl_DarkPTZ" -0.0185595590668765
+"Dark_Length1BoutCountProportion"
+79
+77
+77
+76
+76
+77
+76
+78
+77
+77
+76
+75
+75
+"DarkPTZ_Length1BoutCountProportion"
+74
+63
+57
+54
+54
+52
+53
+52
+53
+53
+52
+52
+52

@@ -1,0 +1,4 @@
+"Length3BoutJBendsProportion"
+"TimeFactor" 0
+"GroupControl_Dark" -0.340719610973401
+"TimeFactor:GroupControl_Dark" 0

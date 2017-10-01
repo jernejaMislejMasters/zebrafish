@@ -1,0 +1,32 @@
+"Length6PlusBoutScootsProportion"
+"TimeFactor" 0.00860449122018259
+"GroupControl_Dark" 0.0721175470903825
+"TimeFactor:GroupControl_Dark" 0
+"Light_Length6PlusBoutScootsProportion"
+73
+71
+77
+80
+83
+82
+82
+77
+80
+83
+84
+81
+81
+"Dark_Length6PlusBoutScootsProportion"
+79
+80
+83
+87
+90
+92
+92
+90
+92
+89
+92
+92
+92

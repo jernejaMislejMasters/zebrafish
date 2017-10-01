@@ -1,0 +1,88 @@
+"Length4BoutScootsProportion"
+"TimeFactor" 0
+"GroupAripiprazole_10microM" 0.219826799707644
+"GroupAripiprazole_1microM" 0
+"GroupAripiprazole_3microM" 0
+"GroupCariprazine_10microM" 0
+"GroupCariprazine_1microM" 0
+"GroupCariprazine_3microM" 0
+"GroupClozapine_10microM" 0.185884417691043
+"GroupClozapine_1microM" 0.178133243742794
+"GroupClozapine_3microM" 0
+"GroupCNO_10microM" 0
+"GroupCNO_1microM" 0
+"GroupCNO_3microM" 0
+"GroupHaloperidol_10microM" 0
+"GroupHaloperidol_1microM" 0
+"GroupHaloperidol_3microM" 0
+"GroupNDMC_10microM" -0.164384660062485
+"GroupNDMC_1microM" 0
+"GroupNDMC_3microM" -0.15692163222074
+"GroupNDMCHigh_100microM" 0.158689589103886
+"GroupNDMCHigh_25microM" 0
+"GroupNDMCHigh_50microM" 0.172556273246248
+"GroupOSU6162_10microM" 0
+"GroupOSU6162_1microM" 0
+"GroupOSU6162_3microM" 0
+"GroupPCAP1_10microM" 0.182477670684547
+"GroupPCAP1_1microM" 0
+"GroupPCAP1_3microM" 0
+"GroupPCAP2_10microM" 0
+"GroupPCAP2_1microM" 0
+"GroupPCAP2_3microM" 0
+"GroupPCAP814_10microM" 0
+"GroupPCAP814_1microM" 0
+"GroupPCAP814_3microM" 0.157975508166044
+"GroupPCAP931_10microM" 0
+"GroupPCAP931_1microM" 0.278686041922272
+"GroupPCAP931_3microM" 0.248894114176335
+"TimeFactor:GroupAripiprazole_10microM" 0
+"TimeFactor:GroupAripiprazole_1microM" 0
+"TimeFactor:GroupAripiprazole_3microM" 0
+"TimeFactor:GroupCariprazine_10microM" 0
+"TimeFactor:GroupCariprazine_1microM" 0
+"TimeFactor:GroupCariprazine_3microM" 0
+"TimeFactor:GroupClozapine_10microM" 0
+"TimeFactor:GroupClozapine_1microM" 0
+"TimeFactor:GroupClozapine_3microM" 0
+"TimeFactor:GroupCNO_10microM" 0
+"TimeFactor:GroupCNO_1microM" 0
+"TimeFactor:GroupCNO_3microM" 0
+"TimeFactor:GroupHaloperidol_10microM" 0
+"TimeFactor:GroupHaloperidol_1microM" 0
+"TimeFactor:GroupHaloperidol_3microM" 0
+"TimeFactor:GroupNDMC_10microM" 0
+"TimeFactor:GroupNDMC_1microM" 0
+"TimeFactor:GroupNDMC_3microM" 0
+"TimeFactor:GroupNDMCHigh_100microM" 0
+"TimeFactor:GroupNDMCHigh_25microM" 0
+"TimeFactor:GroupNDMCHigh_50microM" 0
+"TimeFactor:GroupOSU6162_10microM" 0
+"TimeFactor:GroupOSU6162_1microM" 0
+"TimeFactor:GroupOSU6162_3microM" 0
+"TimeFactor:GroupPCAP1_10microM" 0
+"TimeFactor:GroupPCAP1_1microM" 0
+"TimeFactor:GroupPCAP1_3microM" 0
+"TimeFactor:GroupPCAP2_10microM" 0
+"TimeFactor:GroupPCAP2_1microM" 0
+"TimeFactor:GroupPCAP2_3microM" 0
+"TimeFactor:GroupPCAP814_10microM" 0.0292364060760522
+"TimeFactor:GroupPCAP814_1microM" 0
+"TimeFactor:GroupPCAP814_3microM" 0
+"TimeFactor:GroupPCAP931_10microM" 0
+"TimeFactor:GroupPCAP931_1microM" 0
+"TimeFactor:GroupPCAP931_3microM" 0
+"Control" "Aripiprazole_10microM" "Aripiprazole_1microM" "Aripiprazole_3microM" "Cariprazine_10microM" "Cariprazine_1microM" "Cariprazine_3microM" "Clozapine_10microM" "Clozapine_1microM" "Clozapine_3microM" "CNO_10microM" "CNO_1microM" "CNO_3microM" "Haloperidol_10microM" "Haloperidol_1microM" "Haloperidol_3microM" "NDMC_10microM" "NDMC_1microM" "NDMC_3microM" "NDMCHigh_100microM" "NDMCHigh_25microM" "NDMCHigh_50microM" "OSU6162_10microM" "OSU6162_1microM" "OSU6162_3microM" "PCAP1_10microM" "PCAP1_1microM" "PCAP1_3microM" "PCAP2_10microM" "PCAP2_1microM" "PCAP2_3microM" "PCAP814_10microM" "PCAP814_1microM" "PCAP814_3microM" "PCAP931_10microM" "PCAP931_1microM" "PCAP931_3microM"
+64 77 67 67 58 70 70 74 79 75 69 64 69 65 69 67 63 64 58 70 57 75 70 68 60 82 74 72 68 61 69 61 67 68 65 81 73
+56 71 58 64 70 53 65 73 65 61 57 49 53 57 54 57 36 52 46 72 54 60 55 56 44 69 64 60 64 51 69 63 62 76 56 73 68
+55 70 63 62 66 60 69 65 61 53 47 51 44 66 53 59 43 50 46 54 53 66 61 64 52 70 59 60 58 50 58 63 61 66 63 67 59
+52 67 67 68 66 66 62 63 62 63 49 50 53 50 57 59 54 48 49 59 60 65 45 50 56 57 54 56 58 44 59 77 68 66 55 61 77
+56 55 71 66 70 62 60 64 59 63 54 48 47 62 60 67 40 52 44 65 58 63 51 57 50 57 58 59 64 57 62 70 70 63 63 64 70
+56 65 75 66 63 61 58 64 63 62 59 60 49 59 66 65 50 56 46 76 63 60 58 59 56 53 59 52 53 62 63 83 61 67 52 74 66
+55 63 72 66 63 69 69 62 58 70 60 60 55 55 62 63 48 51 53 66 58 66 57 58 58 58 56 63 65 55 60 76 64 68 57 61 66
+57 67 68 67 60 62 59 68 50 64 57 51 48 63 65 63 51 51 51 77 63 66 58 59 54 59 57 56 57 59 61 73 58 66 59 69 62
+56 59 63 66 65 71 69 65 68 62 55 47 50 53 63 64 44 44 45 76 56 73 51 64 57 63 73 62 57 57 60 67 68 72 65 71 67
+55 64 61 72 65 71 61 67 67 74 62 52 61 62 63 62 49 57 52 74 65 71 58 62 53 69 65 56 65 58 56 88 63 74 73 65 59
+55 67 75 65 64 65 64 65 53 63 60 51 53 54 65 68 55 49 53 70 63 64 59 56 59 70 50 57 62 50 60 86 61 75 66 66 60
+56 71 69 71 67 68 62 71 61 65 54 51 50 56 69 70 36 52 53 72 62 69 55 53 58 66 65 54 66 52 64 85 63 77 62 57 65
+59 61 72 69 61 66 68 68 63 69 54 54 57 66 67 64 60 50 51 57 64 59 62 65 62 62 63 57 54 47 59 85 63 74 66 71 67

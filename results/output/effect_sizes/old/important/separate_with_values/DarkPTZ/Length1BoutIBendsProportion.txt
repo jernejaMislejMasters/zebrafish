@@ -1,0 +1,88 @@
+"Length1BoutIBendsProportion"
+"TimeFactor" 0
+"GroupAripiprazole_10microM" 0
+"GroupAripiprazole_1microM" -0.317682075788453
+"GroupAripiprazole_3microM" 0
+"GroupCariprazine_10microM" 0.961117335414962
+"GroupCariprazine_1microM" 0
+"GroupCariprazine_3microM" 0
+"GroupClozapine_10microM" 0
+"GroupClozapine_1microM" 0
+"GroupClozapine_3microM" 0.434797030030462
+"GroupCNO_10microM" 0
+"GroupCNO_1microM" 0
+"GroupCNO_3microM" 0
+"GroupHaloperidol_10microM" 0
+"GroupHaloperidol_1microM" 0
+"GroupHaloperidol_3microM" 0
+"GroupNDMC_10microM" 0
+"GroupNDMC_1microM" 0
+"GroupNDMC_3microM" 0
+"GroupNDMCHigh_100microM" 0
+"GroupNDMCHigh_25microM" 0
+"GroupNDMCHigh_50microM" 0
+"GroupOSU6162_10microM" 0
+"GroupOSU6162_1microM" 0
+"GroupOSU6162_3microM" 0
+"GroupPCAP1_10microM" 0
+"GroupPCAP1_1microM" 0
+"GroupPCAP1_3microM" 0
+"GroupPCAP2_10microM" 0
+"GroupPCAP2_1microM" 0
+"GroupPCAP2_3microM" 0
+"GroupPCAP814_10microM" 0
+"GroupPCAP814_1microM" 0.462263295325018
+"GroupPCAP814_3microM" 0
+"GroupPCAP931_10microM" 0.43320377356597
+"GroupPCAP931_1microM" 0
+"GroupPCAP931_3microM" 0
+"TimeFactor:GroupAripiprazole_10microM" 0.0590496725720535
+"TimeFactor:GroupAripiprazole_1microM" 0
+"TimeFactor:GroupAripiprazole_3microM" 0
+"TimeFactor:GroupCariprazine_10microM" 0
+"TimeFactor:GroupCariprazine_1microM" 0
+"TimeFactor:GroupCariprazine_3microM" 0
+"TimeFactor:GroupClozapine_10microM" 0
+"TimeFactor:GroupClozapine_1microM" 0
+"TimeFactor:GroupClozapine_3microM" -0.0636276112324867
+"TimeFactor:GroupCNO_10microM" 0
+"TimeFactor:GroupCNO_1microM" 0
+"TimeFactor:GroupCNO_3microM" 0
+"TimeFactor:GroupHaloperidol_10microM" 0
+"TimeFactor:GroupHaloperidol_1microM" 0
+"TimeFactor:GroupHaloperidol_3microM" 0
+"TimeFactor:GroupNDMC_10microM" 0
+"TimeFactor:GroupNDMC_1microM" 0
+"TimeFactor:GroupNDMC_3microM" 0
+"TimeFactor:GroupNDMCHigh_100microM" 0
+"TimeFactor:GroupNDMCHigh_25microM" 0
+"TimeFactor:GroupNDMCHigh_50microM" 0
+"TimeFactor:GroupOSU6162_10microM" 0
+"TimeFactor:GroupOSU6162_1microM" 0
+"TimeFactor:GroupOSU6162_3microM" 0
+"TimeFactor:GroupPCAP1_10microM" 0
+"TimeFactor:GroupPCAP1_1microM" 0
+"TimeFactor:GroupPCAP1_3microM" 0
+"TimeFactor:GroupPCAP2_10microM" 0
+"TimeFactor:GroupPCAP2_1microM" 0
+"TimeFactor:GroupPCAP2_3microM" 0
+"TimeFactor:GroupPCAP814_10microM" 0
+"TimeFactor:GroupPCAP814_1microM" -0.0582054076008441
+"TimeFactor:GroupPCAP814_3microM" 0
+"TimeFactor:GroupPCAP931_10microM" 0
+"TimeFactor:GroupPCAP931_1microM" 0
+"TimeFactor:GroupPCAP931_3microM" 0
+"Control" "Aripiprazole_10microM" "Aripiprazole_1microM" "Aripiprazole_3microM" "Cariprazine_10microM" "Cariprazine_1microM" "Cariprazine_3microM" "Clozapine_10microM" "Clozapine_1microM" "Clozapine_3microM" "CNO_10microM" "CNO_1microM" "CNO_3microM" "Haloperidol_10microM" "Haloperidol_1microM" "Haloperidol_3microM" "NDMC_10microM" "NDMC_1microM" "NDMC_3microM" "NDMCHigh_100microM" "NDMCHigh_25microM" "NDMCHigh_50microM" "OSU6162_10microM" "OSU6162_1microM" "OSU6162_3microM" "PCAP1_10microM" "PCAP1_1microM" "PCAP1_3microM" "PCAP2_10microM" "PCAP2_1microM" "PCAP2_3microM" "PCAP814_10microM" "PCAP814_1microM" "PCAP814_3microM" "PCAP931_10microM" "PCAP931_1microM" "PCAP931_3microM"
+20 10 16 19 24 22 22 16 23 23 21 22 21 12 18 17 18 22 20 11 15 17 19 19 22 15 19 18 15 19 19 7 19 4 17 19 16
+12 12 9 14 19 12 15 10 19 17 14 7 13 11 12 13 14 16 15 15 13 14 11 11 10 16 19 15 10 12 12 7 14 8 15 18 17
+9 10 6 7 18 8 6 13 12 9 7 9 6 12 12 13 7 9 9 10 9 12 4 6 6 11 10 10 6 8 10 8 8 9 10 15 11
+8 14 5 6 23 7 6 13 11 7 11 8 8 9 15 13 10 10 14 9 10 10 6 5 7 9 7 12 10 6 12 11 10 9 10 15 8
+8 12 5 6 19 8 5 12 7 9 6 7 13 11 10 13 7 15 6 7 10 11 6 6 8 10 13 11 13 8 12 8 7 7 10 12 7
+8 13 6 8 16 11 7 10 11 8 10 6 7 9 13 13 7 7 8 7 10 13 5 8 9 8 7 6 11 5 8 5 8 11 13 12 6
+8 17 5 7 14 10 7 16 6 8 5 11 6 10 12 11 9 11 5 9 9 10 7 7 6 9 9 9 12 13 13 10 10 8 13 13 8
+8 15 6 9 16 9 7 11 8 12 9 11 8 13 11 13 12 11 9 6 8 11 6 6 8 6 10 9 10 11 12 7 8 5 10 9 12
+10 19 6 7 21 8 7 9 13 5 9 5 8 12 9 13 8 15 6 8 10 9 7 8 8 8 8 9 13 9 9 6 8 6 12 9 12
+9 16 8 6 22 10 10 9 11 5 10 5 7 11 9 12 12 9 9 4 8 11 9 17 7 8 9 11 12 6 14 9 5 8 11 8 12
+10 16 6 8 16 13 10 11 9 7 12 13 6 13 14 12 9 8 7 8 8 12 6 7 8 8 9 9 9 6 14 7 7 7 8 12 7
+9 16 7 9 16 11 11 10 14 7 10 6 5 11 12 14 10 13 8 6 7 12 4 9 7 11 14 8 11 7 10 7 6 6 12 8 12
+8 16 6 10 19 11 10 10 8 8 10 6 6 11 10 14 9 15 8 8 10 9 8 8 11 9 9 13 9 9 9 6 8 5 9 12 8

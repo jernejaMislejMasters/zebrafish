@@ -1,0 +1,276 @@
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[h]\tiny
+\centering
+\label{my-label}
+\begin{tabular}{cccccccccccccccc}
+\rowcolor[HTML]{C0C0C0} 
+\multicolumn{16}{c}{\cellcolor[HTML]{C0C0C0}For twelve* different compounds:}                                                                                                                                                                \\
+\rowcolor[HTML]{9B9B9B} 
+\multicolumn{4}{c}{\cellcolor[HTML]{9B9B9B}HEALTHY}& \multicolumn{12}{c}{\cellcolor[HTML]{9B9B9B}DISEASE}                                                                                                                                 \\
+\rowcolor[HTML]{EFEFEF} 
+\multicolumn{4}{c}{\cellcolor[HTML]{EFEFEF}DARK} & \multicolumn{4}{c}{\cellcolor[HTML]{EFEFEF}DARK \& APO HIGH} & \multicolumn{4}{c}{\cellcolor[HTML]{EFEFEF}DARK \& APO LOW} & \multicolumn{4}{c}{\cellcolor[HTML]{EFEFEF}DARK \& PTZ} \\
+\rowcolor[HTML]{BBDAFF} 
+control & dosage1 & dosage2 & dosage3 & control & dosage1& dosage2       & dosage3      & control       & dosage1       & dosage2      & dosage3      & control      & dosage1      & dosage2     & dosage3     \\
+\rowcolor[HTML]{FFFFC7} 
+12 subjects & 12 subjects & 12 subjects & 12 subjects & 12 subjects   & 12 subjects   & 12 subjects   & 12 subjects  & 12 subjects   & 12 subjects   & 12 subjects  & 12 subjects  & 12 subjects  & 12 subjects  & 12 subjects & 12 subjects
+\end{tabular}
+\caption{My caption}
+\end{table}
+
+
+ Between subject variation in the mixed effects model is examined in different drugs and drug dosages in healthy and disease induced larvae, while the within subject variation is examined in measurement time.
+
+(I)Comparing the proportions of length 2 bout count of the hypoactive control assay, the 10 $\mu$M Haloperidol in healthy assay, and the 10 $\mu$M Haloperidol in hypoactive assay to the proportions of length 2 bout count in the healthy control assay.
+
+First and seconf were plotted by color coding according to the different conditions, dosages and time progress.
+
+ is based on the eigenvalue decomposition of the input data correlation matrix
+ 
+ % Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+\multirow{2}{}{} & \multicolumn{2}{c|}{healthy condition} & \multicolumn{2}{c|}{hypoactive condition}  & \multicolumn{2}{c|}{hyperactive condition} & \multicolumn{2}{c|}{convulsant condition}\\ \cline{2-9}
+ & not stratified in bout length & stratified in bout length & not stratified in bout length & stratified in bout length & not stratified in bout length & stratified in bout length & not stratified in bout length & stratified in bout length \\ \hline 
+Total of descriptive statistics & 375 & 1094 & 290 & 818 & 541 & 1796 & 580 & 2156 \\ \hline
+\end{tabular}
+\caption{My caption}
+\end{table}
+
+
+
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & Length 5 Bout Count Proportion      & Transition ggg Proportion           & Length 5 Bout Count Proportion      \\ \cline{2-4} 
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & Transition jss Proportion           & Transition see Proportion           & Transition cc Proportion            \\ \cline{2-4} 
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & Transition hs Proportion            & Transition ig Proportion            & Transition ge Proportion            \\ \cline{2-4} 
+ \begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                    & Transition js Proportion            & Length 1 Bout Count Proportion      & Transition ses Proportion           \\ \cline{2-4} 
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & Length 3 Bout Count Proportion      & Transition eee Proportion           & Transition sc Proportion            \\ \cline{2-4} 
+ \begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                    & Length 6 Plus Bout Count Proportion & Transition sg Proportion            & Transition ssg Proportion           \\ \cline{2-4} 
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & Transition iss Proportion           & Transition sii Proportion           & Transition gg Proportion            \\ \cline{2-4} 
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & Length 1 Bout Count Proportion      & Transition si Proportion            & Transition eg Proportion            \\ \cline{2-4} 
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & Transition os Proportion            & Transition ssi Proportion           & Transition eee Proportion           \\ \cline{2-4} 
+\begin{tabular}[c]{@{}c@{}c@{}c@{}} \\ \\ \\\end{tabular}                                                     & O-bends Proportion                  & Transition gi Proportion            & Transition ess Proportion           \\ \hline
+
+
+
+
+Euclidean distances between the first, second and third principal component of the healthy control group and the group given a compound in the healthy or disease induced condition were calculated.
+
+
+
+\begin{table}[h!]\tiny
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+first three          & mean  & SD   & MIN   & MAX   \\ \hline
+Haloperidol 3 microM & 9.76  & 2.85 & 5.95  & 16.36 \\ \hline
+Haloperidol 1 microM & 11.54 & 4.42 & 6.08  & 21.61 \\ \hline
+Cariprazine 10microM & 11.56 & 3.03 & 6.38  & 18.80 \\ \hline
+last three           & \multicolumn{4}{c|}{}        \\ \hline
+NDMCHigh 25microM    & 17.40 & 4.50 & 11.45 & 26.70 \\ \hline
+Haloperidol 10microM & 18.30 & 7.35 & 9.60  & 45.15 \\ \hline
+PCAP814 10microM     & 21.59 & 9.84 & 10.29 & 45.35 \\ \hline
+\end{tabular}
+\caption{Using the third set of the descriptive statistics of the hypoactive condition, the first and last three closest compounds to the healthy control, when administered to the healthy larvae, based on the Euclidean distances between the first five principal components through all time frames.}
+\end{table}
+\begin{table}[h!]\tiny
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+first three           & mean  & SD    & MIN   & MAX   \\ \hline
+Haloperidol 3 microM  & 11.36 & 2.84  & 8.16  & 16.36 \\ \hline
+Cariprazine 10microM  & 11.84 & 3.87  & 6.47  & 18.80 \\ \hline
+Aripiprazole 10microM & 13.27 & 2.85  & 8.91  & 18.16 \\ \hline
+last three            & \multicolumn{4}{c|}{}         \\ \hline
+PCAP1 3microM         & 21.25 & 13.74 & 13.86 & 65.78 \\ \hline
+Haloperidol 10microM  & 22.45 & 7.49  & 15.94 & 45.15 \\ \hline
+PCAP814 10microM      & 26.68 & 10.07 & 12.68 & 45.35 \\ \hline
+\end{tabular}
+\caption{Using the third set of the descriptive statistics of the hypoactive condition, the first and last three closest compounds to the healthy control, when administered to the hypoactive larvae, based on the Euclidean distances between the first five principal components through all time frames.}
+
+\end{table}
+
+
+
+
+
+
+
+\subsection{Circular cladograms, based on Euclidean distances between PCs}
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set1_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the first set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set1_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the first set of descriptive statistics.}
+\end{center}
+\end{figure}
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set1_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the first set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set2_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the second set of descriptive statistics.}
+\end{center}
+\end{figure}
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set2_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the second set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set2_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the second set of descriptive statistics.}
+\end{center}
+\end{figure}
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set3_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the third set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set3_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the third set of descriptive statistics.}
+\end{center}
+\end{figure}
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set3_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the third set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set4_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the fourth set of descriptive statistics.}
+\end{center}
+\end{figure}
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set4_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the fourth set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set4_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the fourth set of descriptive statistics.}
+\end{center}
+\end{figure}
+
+
+
+
+
+
+
+\subsection{Circular cladograms, based on Euclidean distances between PCs}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set1_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the first set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set1_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the first set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set1_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the first set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set2_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the second set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set2_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the second set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set2_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the second set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set3_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the third set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set3_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the third set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set3_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the third set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoLow_set4_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hypoactive condition, using the fourth set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkApoHigh_set4_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and hyperactive condition, using the fourth set of descriptive statistics.}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm,height=7.5cm]{DarkPTZ_set4_PCA_tree.png}
+\caption{Circular cladogram, representing Euclidean distances between the first five principal components of all experimental groups in the healthy and convulsant condition, using the fourth set of descriptive statistics.}
+\end{center}
+\end{figure}
+
+
+PCA results were additionally summarized and plotted with respect to the direction of change in time or of change in dosage. With respect to the direction of change in time, a vector was drawn from the first to the last timeframe, for all compounds and plotted together with the healthy control and the disease induced control, for each of the three different dosages. With respect to the change in dosage, an average was taken over all thirteen timeframes and a curved vector was drawn over all three averages of the three different dosages, for all compounds and plotted together with the two controls, also averaged in time. 
+
+PCAP1 10 microM in healthy           & 0.394      & \textless2e-16       & 1.078             & 0.019             \\ \hline
+PCAP1 1 microM in healthy            & 0.256      & \textless2e-16        & 1.119             & 0.001             \\ \hline
+PCAP1 3 microM in healthy            & 0.315      & \textless2e-16        & 1.074             & 0.039             \\ \hline
+PCAP2 10 microM in healthy           & 1.219       & 0.240        & 0.930            & 0.021             \\ \hline
+PCAP2 1 microM in healthy            & 1.403       & 0.029        & 0.994            & 0.834             \\ \hline
+PCAP2 3 microM in healthy            & 1.608       & 0.003        & 0.925            & 0.008             \\ \hline
+PCAP1 10 microM in hypoactive        & 0.101      & \textless2e-16        & 1.190             & \textless2e-16             \\ \hline
+PCAP1 1 microM in hypoactive         & 0.187      & \textless2e-16        & 1.119             & 0.003             \\ \hline
+PCAP1 3 microM in hypoactive         & 0.225      & \textless2e-16        & 1.026             & 0.563             \\ \hline
+PCAP2 10 microM in hypoactive        & 0.127      & \textless2e-16        & 1.137             & 0.002             \\ \hline
+PCAP2 1 microM in hypoactive         & 0.203      & \textless2e-16        & 1.060             & 0.160             \\ \hline
+PCAP2 3 microM in hypoactive         & 0.124      & \textless2e-16        & 1.149             & 0.001             \\ \hline

@@ -1,0 +1,32 @@
+"Length2Transition_gs_Proportion"
+"TimeFactor" 0
+"GroupControl_Dark" 0.0868595534497125
+"TimeFactor:GroupControl_Dark" -0.0272269460095101
+"Light_Length2Transition_gs_Proportion"
+36
+35
+34
+35
+33
+33
+32
+34
+35
+32
+35
+34
+33
+"Dark_Length2Transition_gs_Proportion"
+42
+37
+33
+31
+27
+29
+24
+26
+22
+26
+26
+20
+22

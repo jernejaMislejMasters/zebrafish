@@ -1,0 +1,32 @@
+"Length2BoutGBendsProportion"
+"TimeFactor" 0
+"GroupControl_DarkApoLow" -0.378665074175474
+"TimeFactor:GroupControl_DarkApoLow" 0
+"Dark_Length2BoutGBendsProportion"
+24
+21
+19
+19
+18
+19
+16
+18
+17
+19
+20
+16
+17
+"DarkApoLow_Length2BoutGBendsProportion"
+11
+9
+10
+10
+12
+12
+13
+14
+12
+13
+12
+10
+14

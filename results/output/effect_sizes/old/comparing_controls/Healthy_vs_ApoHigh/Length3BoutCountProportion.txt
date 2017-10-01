@@ -1,0 +1,4 @@
+"Length3BoutCountProportion"
+"TimeFactor" 0.018033982912399
+"GroupControl_DarkApoHigh" 0.180727524176019
+"TimeFactor:GroupControl_DarkApoHigh" -0.0335172775080502

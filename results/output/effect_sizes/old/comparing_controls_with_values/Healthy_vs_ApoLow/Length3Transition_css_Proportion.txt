@@ -1,0 +1,32 @@
+"Length3Transition_css_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkApoLow" -0.398776566170505
+"TimeFactor:GroupControl_DarkApoLow" 0
+"Dark_Length3Transition_css_Proportion"
+6
+8
+10
+10
+9
+10
+7
+9
+7
+6
+9
+7
+7
+"DarkApoLow_Length3Transition_css_Proportion"
+15
+10
+9
+9
+10
+7
+7
+5
+8
+4
+4
+6
+4

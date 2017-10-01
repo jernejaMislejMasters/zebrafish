@@ -1,0 +1,32 @@
+"TotalBoutCount"
+"TimeFactor" -0.15971524653954
+"GroupControl_DarkApoLow" -0.836259996853223
+"TimeFactor:GroupControl_DarkApoLow" 0.078085613261053
+"Dark_TotalBoutCount"
+457
+352
+263
+197
+154
+126
+102
+97
+84
+85
+81
+80
+80
+"DarkApoLow_TotalBoutCount"
+103
+52
+46
+50
+30
+32
+35
+32
+26
+31
+31
+24
+30

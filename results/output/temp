@@ -1,0 +1,903 @@
+> summary(model_nb)
+Generalized linear mixed model fit by maximum likelihood ['glmerMod']
+ Family: Negative Binomial(2.8742) ( log )
+Formula: AllBoutCount ~ TimeFactor + Group + TimeFactor * Group + (1 |      Subject) 
+
+      AIC       BIC    logLik  deviance 
+ 77297.74  77823.55 -38572.87  77145.74 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Subject  (Intercept) 0.08497  0.2915  
+ Residual             0.82663  0.9092  
+Number of obs: 7469, groups: Subject, 456
+
+Fixed effects:
+                                       Estimate Std. Error t value Pr(>|z|)    
+(Intercept)                            4.892051   0.036112  135.47  < 2e-16 ***
+TimeFactor                            -0.074124   0.003387  -21.88  < 2e-16 ***
+GroupAripiprazole_10microM            -0.200831   0.130317   -1.54 0.123294    
+GroupAripiprazole_1microM              0.157695   0.129906    1.21 0.224782    
+GroupAripiprazole_3microM              0.169791   0.129829    1.31 0.190938    
+GroupCariprazine_10microM             -0.346518   0.130343   -2.66 0.007849 ** 
+GroupCariprazine_1microM              -0.124579   0.130198   -0.96 0.338644    
+GroupCariprazine_3microM              -0.043410   0.130156   -0.33 0.738738    
+GroupClozapine_10microM               -0.377323   0.130484   -2.89 0.003831 ** 
+GroupClozapine_1microM                -0.001587   0.130322   -0.01 0.990284    
+GroupClozapine_3microM                -0.284513   0.130319   -2.18 0.029021 *  
+GroupCNO_10microM                     -0.064880   0.130537   -0.50 0.619175    
+GroupCNO_1microM                      -0.056944   0.130206   -0.44 0.661865    
+GroupCNO_3microM                      -0.120487   0.130433   -0.92 0.355617    
+GroupHaloperidol_10microM              0.081974   0.129970    0.63 0.528226    
+GroupHaloperidol_1microM               0.209383   0.102633    2.04 0.041339 *  
+GroupHaloperidol_3microM               0.836297   0.102628    8.15 3.67e-16 ***
+GroupNDMC_10microM                    -0.204317   0.103066   -1.98 0.047435 *  
+GroupNDMC_1microM                      0.355453   0.103308    3.44 0.000580 ***
+GroupNDMC_3microM                      0.393719   0.103214    3.81 0.000136 ***
+GroupNDMCHigh_100microM               -0.338658   0.103686   -3.27 0.001090 ** 
+GroupNDMCHigh_25microM                -0.100223   0.103012   -0.97 0.330588    
+GroupNDMCHigh_50microM                -0.146395   0.103105   -1.42 0.155648    
+GroupOSU6162_10microM                 -0.060927   0.103214   -0.59 0.554987    
+GroupOSU6162_1microM                  -0.148760   0.103448   -1.44 0.150430    
+GroupOSU6162_3microM                  -0.054664   0.130130   -0.42 0.674432    
+GroupPCAP1_10microM                    0.001817   0.130038    0.01 0.988853    
+GroupPCAP1_1microM                    -0.008029   0.130498   -0.06 0.950943    
+GroupPCAP1_3microM                    -0.086342   0.130156   -0.66 0.507095    
+GroupPCAP2_10microM                   -0.490192   0.130186   -3.77 0.000166 ***
+GroupPCAP2_1microM                    -0.377482   0.130955   -2.88 0.003945 ** 
+GroupPCAP2_3microM                    -0.420284   0.130370   -3.22 0.001265 ** 
+GroupPCAP814_10microM                 -0.960335   0.131763   -7.29 3.14e-13 ***
+GroupPCAP814_1microM                  -0.454301   0.130406   -3.48 0.000494 ***
+GroupPCAP814_3microM                  -0.682261   0.130700   -5.22 1.79e-07 ***
+GroupPCAP931_10microM                 -0.701788   0.130642   -5.37 7.79e-08 ***
+GroupPCAP931_1microM                   0.393024   0.130416    3.01 0.002582 ** 
+GroupPCAP931_3microM                  -0.088197   0.130397   -0.68 0.498804    
+TimeFactor:GroupAripiprazole_10microM  0.009709   0.012212    0.80 0.426580    
+TimeFactor:GroupAripiprazole_1microM   0.023325   0.012117    1.92 0.054235 .  
+TimeFactor:GroupAripiprazole_3microM   0.042282   0.012093    3.50 0.000472 ***
+TimeFactor:GroupCariprazine_10microM   0.033122   0.012197    2.72 0.006616 ** 
+TimeFactor:GroupCariprazine_1microM    0.009703   0.012187    0.80 0.425903    
+TimeFactor:GroupCariprazine_3microM    0.002042   0.012184    0.17 0.866881    
+TimeFactor:GroupClozapine_10microM     0.061189   0.012199    5.02 5.28e-07 ***
+TimeFactor:GroupClozapine_1microM      0.007214   0.012271    0.59 0.556631    
+TimeFactor:GroupClozapine_3microM      0.071392   0.012230    5.84 5.31e-09 ***
+TimeFactor:GroupCNO_10microM          -0.021919   0.012347   -1.78 0.075853 .  
+TimeFactor:GroupCNO_1microM           -0.001355   0.012198   -0.11 0.911524    
+TimeFactor:GroupCNO_3microM            0.005660   0.012297    0.46 0.645320    
+TimeFactor:GroupHaloperidol_10microM   0.024843   0.012129    2.05 0.040541 *  
+TimeFactor:GroupHaloperidol_1microM    0.036894   0.012075    3.06 0.002247 ** 
+TimeFactor:GroupHaloperidol_3microM    0.040625   0.012053    3.37 0.000750 ***
+TimeFactor:GroupNDMC_10microM          0.007558   0.012162    0.62 0.534284    
+TimeFactor:GroupNDMC_1microM          -0.043775   0.012290   -3.56 0.000368 ***
+TimeFactor:GroupNDMC_3microM          -0.031426   0.012202   -2.58 0.010009 *  
+TimeFactor:GroupNDMCHigh_100microM     0.001430   0.012323    0.12 0.907641    
+TimeFactor:GroupNDMCHigh_25microM      0.043933   0.012123    3.62 0.000290 ***
+TimeFactor:GroupNDMCHigh_50microM      0.071642   0.012120    5.91 3.40e-09 ***
+TimeFactor:GroupOSU6162_10microM       0.022254   0.012167    1.83 0.067391 .  
+TimeFactor:GroupOSU6162_1microM        0.006355   0.012277    0.52 0.604679    
+TimeFactor:GroupOSU6162_3microM        0.014311   0.012169    1.18 0.239571    
+TimeFactor:GroupPCAP1_10microM         0.022322   0.012145    1.84 0.066063 .  
+TimeFactor:GroupPCAP1_1microM         -0.001852   0.012368   -0.15 0.880950    
+TimeFactor:GroupPCAP1_3microM          0.013848   0.012175    1.14 0.255351    
+TimeFactor:GroupPCAP2_10microM         0.107258   0.012125    8.85  < 2e-16 ***
+TimeFactor:GroupPCAP2_1microM          0.014054   0.012496    1.12 0.260710    
+TimeFactor:GroupPCAP2_3microM          0.045383   0.012193    3.72 0.000198 ***
+TimeFactor:GroupPCAP814_10microM       0.012303   0.012507    0.98 0.325259    
+TimeFactor:GroupPCAP814_1microM        0.049485   0.012196    4.06 4.96e-05 ***
+TimeFactor:GroupPCAP814_3microM        0.113299   0.012331    9.19  < 2e-16 ***
+TimeFactor:GroupPCAP931_10microM       0.062014   0.012228    5.07 3.95e-07 ***
+TimeFactor:GroupPCAP931_1microM       -0.081781   0.012380   -6.61 3.95e-11 ***
+TimeFactor:GroupPCAP931_3microM       -0.026802   0.012267   -2.18 0.028894 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation matrix not shown by default, as p = 74 > 20.
+Use print(...., correlation=TRUE)  or
+    vcov(....)	 if you need it
+
+
+
+
+Loading required package: nlme
+
+Attaching package: ‘nlme’
+
+The following object is masked from ‘package:lme4’:
+
+    lmList
+
+iteration 1
+iteration 2
+iteration 3
+> summary(model_quasipoisson)
+Linear mixed-effects model fit by maximum likelihood
+ Data: all_dataset 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | Subject
+        (Intercept) Residual
+StdDev:   0.2910966 5.012922
+
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects: AllBoutCount ~ TimeFactor + Group + TimeFactor * Group 
+                                          Value  Std.Error   DF   t-value
+(Intercept)                            4.996267 0.03396267 6966 147.11056
+TimeFactor                            -0.087986 0.00344373 6966 -25.54960
+GroupAripiprazole_10microM            -0.229987 0.12750951  429  -1.80369
+GroupAripiprazole_1microM              0.060000 0.11749230  429   0.51067
+GroupAripiprazole_3microM              0.105287 0.11555576  429   0.91114
+GroupCariprazine_10microM             -0.427998 0.13061688  429  -3.27675
+GroupCariprazine_1microM              -0.159917 0.12615176  429  -1.26766
+GroupCariprazine_3microM              -0.064686 0.12437580  429  -0.52009
+GroupClozapine_10microM               -0.461044 0.12526203  429  -3.68063
+GroupClozapine_1microM                 0.073235 0.12070592  429   0.60672
+GroupClozapine_3microM                -0.298144 0.12336956  429  -2.41667
+GroupCNO_10microM                     -0.009888 0.12613899  429  -0.07839
+GroupCNO_1microM                      -0.005950 0.12368329  429  -0.04810
+GroupCNO_3microM                      -0.116585 0.12566825  429  -0.92772
+GroupHaloperidol_10microM              0.012943 0.11883553  429   0.10892
+GroupHaloperidol_1microM               0.115372 0.07735029 6966   1.49156
+GroupHaloperidol_3microM               0.732128 0.07639418 6966   9.58356
+GroupNDMC_10microM                    -0.189983 0.08999963 6966  -2.11093
+GroupNDMC_1microM                      0.409996 0.08588673 6966   4.77368
+GroupNDMC_3microM                      0.549861 0.08880275 6966   6.19194
+GroupNDMCHigh_100microM               -0.460942 0.10199579 6966  -4.51922
+GroupNDMCHigh_25microM                -0.193715 0.09163423 6966  -2.11401
+GroupNDMCHigh_50microM                -0.206150 0.09456666 6966  -2.17994
+GroupOSU6162_10microM                 -0.050777 0.09504536 6966  -0.53424
+GroupOSU6162_1microM                  -0.224242 0.09405255 6966  -2.38422
+GroupOSU6162_3microM                  -0.064594 0.12282962  429  -0.52588
+GroupPCAP1_10microM                   -0.038970 0.12086812  429  -0.32242
+GroupPCAP1_1microM                    -0.034178 0.12327526  429  -0.27725
+GroupPCAP1_3microM                    -0.161840 0.12461813  429  -1.29869
+GroupPCAP2_10microM                   -0.549043 0.12552791  429  -4.37387
+GroupPCAP2_1microM                    -0.355889 0.13074963  429  -2.72191
+GroupPCAP2_3microM                    -0.497458 0.13140820  429  -3.78559
+GroupPCAP814_10microM                 -0.965789 0.15450399  429  -6.25090
+GroupPCAP814_1microM                  -0.550737 0.13181434  429  -4.17813
+GroupPCAP814_3microM                  -0.730771 0.13135283  429  -5.56342
+GroupPCAP931_10microM                 -0.784638 0.13983565  429  -5.61114
+GroupPCAP931_1microM                   0.502066 0.11912118  429   4.21475
+GroupPCAP931_3microM                  -0.044692 0.12738678  429  -0.35084
+TimeFactor:GroupAripiprazole_10microM  0.016020 0.01305414 6966   1.22721
+TimeFactor:GroupAripiprazole_1microM   0.038422 0.01065755 6966   3.60516
+TimeFactor:GroupAripiprazole_3microM   0.051150 0.01008651 6966   5.07114
+TimeFactor:GroupCariprazine_10microM   0.046333 0.01303685 6966   3.55400
+TimeFactor:GroupCariprazine_1microM    0.013941 0.01290656 6966   1.08019
+TimeFactor:GroupCariprazine_3microM    0.004212 0.01275722 6966   0.33015
+TimeFactor:GroupClozapine_10microM     0.087071 0.01121033 6966   7.76704
+TimeFactor:GroupClozapine_1microM     -0.003687 0.01208030 6966  -0.30525
+TimeFactor:GroupClozapine_3microM      0.074617 0.01125312 6966   6.63081
+TimeFactor:GroupCNO_10microM          -0.030349 0.01392121 6966  -2.18005
+TimeFactor:GroupCNO_1microM           -0.009175 0.01284356 6966  -0.71440
+TimeFactor:GroupCNO_3microM            0.005083 0.01301930 6966   0.39042
+TimeFactor:GroupHaloperidol_10microM   0.036337 0.01095978 6966   3.31551
+TimeFactor:GroupHaloperidol_1microM    0.050294 0.00938247 6966   5.36043
+TimeFactor:GroupHaloperidol_3microM    0.052255 0.00864582 6966   6.04392
+TimeFactor:GroupNDMC_10microM          0.003033 0.01216917 6966   0.24921
+TimeFactor:GroupNDMC_1microM          -0.056552 0.01255470 6966  -4.50445
+TimeFactor:GroupNDMC_3microM          -0.069343 0.01312982 6966  -5.28137
+TimeFactor:GroupNDMCHigh_100microM     0.028720 0.01339439 6966   2.14421
+TimeFactor:GroupNDMCHigh_25microM      0.055690 0.01124031 6966   4.95447
+TimeFactor:GroupNDMCHigh_50microM      0.086528 0.01100005 6966   7.86614
+TimeFactor:GroupOSU6162_10microM       0.027487 0.01214792 6966   2.26267
+TimeFactor:GroupOSU6162_1microM        0.007347 0.01267621 6966   0.57955
+TimeFactor:GroupOSU6162_3microM        0.016624 0.01214182 6966   1.36913
+TimeFactor:GroupPCAP1_10microM         0.028793 0.01150653 6966   2.50228
+TimeFactor:GroupPCAP1_1microM          0.003800 0.01256635 6966   0.30242
+TimeFactor:GroupPCAP1_3microM          0.025794 0.01231739 6966   2.09409
+TimeFactor:GroupPCAP2_10microM         0.117205 0.01092125 6966  10.73180
+TimeFactor:GroupPCAP2_1microM          0.017989 0.01365978 6966   1.31696
+TimeFactor:GroupPCAP2_3microM          0.058104 0.01293427 6966   4.49223
+TimeFactor:GroupPCAP814_10microM       0.027376 0.01753149 6966   1.56154
+TimeFactor:GroupPCAP814_1microM        0.066210 0.01281440 6966   5.16681
+TimeFactor:GroupPCAP814_3microM        0.120961 0.01194299 6966  10.12822
+TimeFactor:GroupPCAP931_10microM       0.074956 0.01403697 6966   5.33992
+TimeFactor:GroupPCAP931_1microM       -0.103120 0.01413309 6966  -7.29635
+TimeFactor:GroupPCAP931_3microM       -0.032686 0.01420193 6966  -2.30155
+                                      p-value
+(Intercept)                            0.0000
+TimeFactor                             0.0000
+GroupAripiprazole_10microM             0.0720
+GroupAripiprazole_1microM              0.6098
+GroupAripiprazole_3microM              0.3627
+GroupCariprazine_10microM              0.0011
+GroupCariprazine_1microM               0.2056
+GroupCariprazine_3microM               0.6033
+GroupClozapine_10microM                0.0003
+GroupClozapine_1microM                 0.5444
+GroupClozapine_3microM                 0.0161
+GroupCNO_10microM                      0.9376
+GroupCNO_1microM                       0.9617
+GroupCNO_3microM                       0.3541
+GroupHaloperidol_10microM              0.9133
+GroupHaloperidol_1microM               0.1359
+GroupHaloperidol_3microM               0.0000
+GroupNDMC_10microM                     0.0348
+GroupNDMC_1microM                      0.0000
+GroupNDMC_3microM                      0.0000
+GroupNDMCHigh_100microM                0.0000
+GroupNDMCHigh_25microM                 0.0346
+GroupNDMCHigh_50microM                 0.0293
+GroupOSU6162_10microM                  0.5932
+GroupOSU6162_1microM                   0.0171
+GroupOSU6162_3microM                   0.5992
+GroupPCAP1_10microM                    0.7473
+GroupPCAP1_1microM                     0.7817
+GroupPCAP1_3microM                     0.1947
+GroupPCAP2_10microM                    0.0000
+GroupPCAP2_1microM                     0.0068
+GroupPCAP2_3microM                     0.0002
+GroupPCAP814_10microM                  0.0000
+GroupPCAP814_1microM                   0.0000
+GroupPCAP814_3microM                   0.0000
+GroupPCAP931_10microM                  0.0000
+GroupPCAP931_1microM                   0.0000
+GroupPCAP931_3microM                   0.7259
+TimeFactor:GroupAripiprazole_10microM  0.2198
+TimeFactor:GroupAripiprazole_1microM   0.0003
+TimeFactor:GroupAripiprazole_3microM   0.0000
+TimeFactor:GroupCariprazine_10microM   0.0004
+TimeFactor:GroupCariprazine_1microM    0.2801
+TimeFactor:GroupCariprazine_3microM    0.7413
+TimeFactor:GroupClozapine_10microM     0.0000
+TimeFactor:GroupClozapine_1microM      0.7602
+TimeFactor:GroupClozapine_3microM      0.0000
+TimeFactor:GroupCNO_10microM           0.0293
+TimeFactor:GroupCNO_1microM            0.4750
+TimeFactor:GroupCNO_3microM            0.6962
+TimeFactor:GroupHaloperidol_10microM   0.0009
+TimeFactor:GroupHaloperidol_1microM    0.0000
+TimeFactor:GroupHaloperidol_3microM    0.0000
+TimeFactor:GroupNDMC_10microM          0.8032
+TimeFactor:GroupNDMC_1microM           0.0000
+TimeFactor:GroupNDMC_3microM           0.0000
+TimeFactor:GroupNDMCHigh_100microM     0.0321
+TimeFactor:GroupNDMCHigh_25microM      0.0000
+TimeFactor:GroupNDMCHigh_50microM      0.0000
+TimeFactor:GroupOSU6162_10microM       0.0237
+TimeFactor:GroupOSU6162_1microM        0.5622
+TimeFactor:GroupOSU6162_3microM        0.1710
+TimeFactor:GroupPCAP1_10microM         0.0124
+TimeFactor:GroupPCAP1_1microM          0.7623
+TimeFactor:GroupPCAP1_3microM          0.0363
+TimeFactor:GroupPCAP2_10microM         0.0000
+TimeFactor:GroupPCAP2_1microM          0.1879
+TimeFactor:GroupPCAP2_3microM          0.0000
+TimeFactor:GroupPCAP814_10microM       0.1184
+TimeFactor:GroupPCAP814_1microM        0.0000
+TimeFactor:GroupPCAP814_3microM        0.0000
+TimeFactor:GroupPCAP931_10microM       0.0000
+TimeFactor:GroupPCAP931_1microM        0.0000
+TimeFactor:GroupPCAP931_3microM        0.0214
+
+
+
+
+
+> summary(model_lm)
+Linear mixed model fit by REML 
+t-tests use  Satterthwaite approximations to degrees of freedom ['lmerMod']
+Formula: Length1BoutCountPerMille ~ TimeFactor + Group + TimeFactor *      Group + (1 | Subject) 
+
+REML criterion at convergence: 91658.11 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Subject  (Intercept)  4077     63.85  
+ Residual             11911    109.14  
+Number of obs: 7469, groups: Subject, 456
+
+Fixed effects:
+                                       Estimate Std. Error        df t value
+(Intercept)                            615.4730     7.5498 1170.0000  81.522
+TimeFactor                              -9.8518     0.6760 6963.0000 -14.574
+GroupAripiprazole_10microM             -78.8852    27.2099 1169.0000  -2.899
+GroupAripiprazole_1microM               31.1392    27.2099 1169.0000   1.144
+GroupAripiprazole_3microM               29.1704    27.2099 1169.0000   1.072
+GroupCariprazine_10microM                6.0260    27.2099 1169.0000   0.221
+GroupCariprazine_1microM                15.7934    27.2099 1169.0000   0.580
+GroupCariprazine_3microM                33.0625    27.2099 1169.0000   1.215
+GroupClozapine_10microM                -47.7110    27.2099 1169.0000  -1.753
+GroupClozapine_1microM                 -32.0005    27.2490 1175.0000  -1.174
+GroupClozapine_3microM                 -24.6873    27.2490 1175.0000  -0.906
+GroupCNO_10microM                       28.0780    27.2490 1175.0000   1.030
+GroupCNO_1microM                       -54.5370    27.2099 1169.0000  -2.004
+GroupCNO_3microM                        26.7300    27.2490 1175.0000   0.981
+GroupHaloperidol_10microM              -21.1313    27.2099 1169.0000  -0.777
+GroupHaloperidol_1microM               -15.6353    20.7241 7285.0000  -0.754
+GroupHaloperidol_3microM                 3.7521    20.7322 7288.0000   0.181
+GroupNDMC_10microM                     -30.2021    20.7241 7285.0000  -1.457
+GroupNDMC_1microM                       -9.3493    20.7740 7284.0000  -0.450
+GroupNDMC_3microM                       41.5383    20.7276 7286.0000   2.004
+GroupNDMCHigh_100microM                 17.3021    20.7740 7284.0000   0.833
+GroupNDMCHigh_25microM                 -39.8609    20.7276 7286.0000  -1.923
+GroupNDMCHigh_50microM                  48.6532    20.7241 7285.0000   2.348
+GroupOSU6162_10microM                   55.9226    20.7241 7285.0000   2.698
+GroupOSU6162_1microM                   -15.5087    20.7740 7284.0000  -0.747
+GroupOSU6162_3microM                    47.6136    27.2099 1169.0000   1.750
+GroupPCAP1_10microM                     35.9534    27.2099 1169.0000   1.321
+GroupPCAP1_1microM                      22.7141    27.2762 1179.0000   0.833
+GroupPCAP1_3microM                      22.1726    27.2099 1169.0000   0.815
+GroupPCAP2_10microM                    -20.9469    27.2099 1169.0000  -0.770
+GroupPCAP2_1microM                     -65.6542    27.2930 1181.0000  -2.406
+GroupPCAP2_3microM                     -39.3668    27.2099 1169.0000  -1.447
+GroupPCAP814_10microM                   65.5249    27.2099 1169.0000   2.408
+GroupPCAP814_1microM                   -88.7738    27.2099 1169.0000  -3.263
+GroupPCAP814_3microM                    16.2712    27.2762 1179.0000   0.597
+GroupPCAP931_10microM                   42.7245    27.2099 1169.0000   1.570
+GroupPCAP931_1microM                   131.3367    27.2490 1175.0000   4.820
+GroupPCAP931_3microM                    63.6357    27.2099 1169.0000   2.339
+TimeFactor:GroupAripiprazole_10microM   16.3921     2.4312 6962.0000   6.742
+TimeFactor:GroupAripiprazole_1microM     7.8422     2.4312 6962.0000   3.226
+TimeFactor:GroupAripiprazole_3microM     8.6545     2.4312 6962.0000   3.560
+TimeFactor:GroupCariprazine_10microM    -1.8959     2.4312 6962.0000  -0.780
+TimeFactor:GroupCariprazine_1microM      4.5803     2.4312 6962.0000   1.884
+TimeFactor:GroupCariprazine_3microM     -2.7856     2.4312 6962.0000  -1.146
+TimeFactor:GroupClozapine_10microM       5.7172     2.4312 6962.0000   2.352
+TimeFactor:GroupClozapine_1microM       -2.4246     2.4513 6966.0000  -0.989
+TimeFactor:GroupClozapine_3microM        5.5366     2.4513 6966.0000   2.259
+TimeFactor:GroupCNO_10microM            -2.1123     2.4513 6966.0000  -0.862
+TimeFactor:GroupCNO_1microM             -3.2499     2.4312 6962.0000  -1.337
+TimeFactor:GroupCNO_3microM             -4.8416     2.4513 6966.0000  -1.975
+TimeFactor:GroupHaloperidol_10microM    11.2763     2.4312 6962.0000   4.638
+TimeFactor:GroupHaloperidol_1microM      6.2568     2.4312 6962.0000   2.574
+TimeFactor:GroupHaloperidol_3microM     10.4458     2.4312 6962.0000   4.296
+TimeFactor:GroupNDMC_10microM            0.3861     2.4312 6962.0000   0.159
+TimeFactor:GroupNDMC_1microM            -4.7906     2.4507 6963.0000  -1.955
+TimeFactor:GroupNDMC_3microM            -3.2738     2.4312 6962.0000  -1.347
+TimeFactor:GroupNDMCHigh_100microM       6.3996     2.4507 6963.0000   2.611
+TimeFactor:GroupNDMCHigh_25microM        1.6816     2.4312 6962.0000   0.692
+TimeFactor:GroupNDMCHigh_50microM        0.4735     2.4312 6962.0000   0.195
+TimeFactor:GroupOSU6162_10microM         0.5660     2.4312 6962.0000   0.233
+TimeFactor:GroupOSU6162_1microM          1.1900     2.4507 6963.0000   0.486
+TimeFactor:GroupOSU6162_3microM         -7.0492     2.4312 6962.0000  -2.899
+TimeFactor:GroupPCAP1_10microM           1.6296     2.4312 6962.0000   0.670
+TimeFactor:GroupPCAP1_1microM           -3.3974     2.4680 6975.0000  -1.377
+TimeFactor:GroupPCAP1_3microM            0.4744     2.4312 6962.0000   0.195
+TimeFactor:GroupPCAP2_10microM           3.4919     2.4312 6962.0000   1.436
+TimeFactor:GroupPCAP2_1microM            0.8024     2.4816 6989.0000   0.323
+TimeFactor:GroupPCAP2_3microM            6.3211     2.4312 6962.0000   2.600
+TimeFactor:GroupPCAP814_10microM        10.4440     2.4312 6962.0000   4.296
+TimeFactor:GroupPCAP814_1microM          8.2143     2.4312 6962.0000   3.379
+TimeFactor:GroupPCAP814_3microM          3.4818     2.4680 6975.0000   1.411
+TimeFactor:GroupPCAP931_10microM         3.4614     2.4312 6962.0000   1.424
+TimeFactor:GroupPCAP931_1microM         -8.4580     2.4513 6966.0000  -3.450
+TimeFactor:GroupPCAP931_3microM         -5.0896     2.4312 6962.0000  -2.093
+                                      Pr(>|t|)    
+(Intercept)                            < 2e-16 ***
+TimeFactor                             < 2e-16 ***
+GroupAripiprazole_10microM            0.003812 ** 
+GroupAripiprazole_1microM             0.252689    
+GroupAripiprazole_3microM             0.283919    
+GroupCariprazine_10microM             0.824770    
+GroupCariprazine_1microM              0.561739    
+GroupCariprazine_3microM              0.224576    
+GroupClozapine_10microM               0.079788 .  
+GroupClozapine_1microM                0.240483    
+GroupClozapine_3microM                0.365127    
+GroupCNO_10microM                     0.303024    
+GroupCNO_1microM                      0.045268 *  
+GroupCNO_3microM                      0.326818    
+GroupHaloperidol_10microM             0.437550    
+GroupHaloperidol_1microM              0.450603    
+GroupHaloperidol_3microM              0.856390    
+GroupNDMC_10microM                    0.145065    
+GroupNDMC_1microM                     0.652688    
+GroupNDMC_3microM                     0.045106 *  
+GroupNDMCHigh_100microM               0.404944    
+GroupNDMCHigh_25microM                0.054508 .  
+GroupNDMCHigh_50microM                0.018918 *  
+GroupOSU6162_10microM                 0.006983 ** 
+GroupOSU6162_1microM                  0.455363    
+GroupOSU6162_3microM                  0.080405 .  
+GroupPCAP1_10microM                   0.186649    
+GroupPCAP1_1microM                    0.405159    
+GroupPCAP1_3microM                    0.415310    
+GroupPCAP2_10microM                   0.441558    
+GroupPCAP2_1microM                    0.016302 *  
+GroupPCAP2_3microM                    0.148226    
+GroupPCAP814_10microM                 0.016189 *  
+GroupPCAP814_1microM                  0.001136 ** 
+GroupPCAP814_3microM                  0.550934    
+GroupPCAP931_10microM                 0.116644    
+GroupPCAP931_1microM                  1.62e-06 ***
+GroupPCAP931_3microM                  0.019519 *  
+TimeFactor:GroupAripiprazole_10microM 1.68e-11 ***
+TimeFactor:GroupAripiprazole_1microM  0.001263 ** 
+TimeFactor:GroupAripiprazole_3microM  0.000374 ***
+TimeFactor:GroupCariprazine_10microM  0.435533    
+TimeFactor:GroupCariprazine_1microM   0.059617 .  
+TimeFactor:GroupCariprazine_3microM   0.251934    
+TimeFactor:GroupClozapine_10microM    0.018723 *  
+TimeFactor:GroupClozapine_1microM     0.322643    
+TimeFactor:GroupClozapine_3microM     0.023934 *  
+TimeFactor:GroupCNO_10microM          0.388863    
+TimeFactor:GroupCNO_1microM           0.181360    
+TimeFactor:GroupCNO_3microM           0.048289 *  
+TimeFactor:GroupHaloperidol_10microM  3.58e-06 ***
+TimeFactor:GroupHaloperidol_1microM   0.010088 *  
+TimeFactor:GroupHaloperidol_3microM   1.76e-05 ***
+TimeFactor:GroupNDMC_10microM         0.873812    
+TimeFactor:GroupNDMC_1microM          0.050650 .  
+TimeFactor:GroupNDMC_3microM          0.178172    
+TimeFactor:GroupNDMCHigh_100microM    0.009038 ** 
+TimeFactor:GroupNDMCHigh_25microM     0.489161    
+TimeFactor:GroupNDMCHigh_50microM     0.845591    
+TimeFactor:GroupOSU6162_10microM      0.815918    
+TimeFactor:GroupOSU6162_1microM       0.627290    
+TimeFactor:GroupOSU6162_3microM       0.003750 ** 
+TimeFactor:GroupPCAP1_10microM        0.502709    
+TimeFactor:GroupPCAP1_1microM         0.168693    
+TimeFactor:GroupPCAP1_3microM         0.845311    
+TimeFactor:GroupPCAP2_10microM        0.150975    
+TimeFactor:GroupPCAP2_1microM         0.746458    
+TimeFactor:GroupPCAP2_3microM         0.009343 ** 
+TimeFactor:GroupPCAP814_10microM      1.76e-05 ***
+TimeFactor:GroupPCAP814_1microM       0.000732 ***
+TimeFactor:GroupPCAP814_3microM       0.158355    
+TimeFactor:GroupPCAP931_10microM      0.154567    
+TimeFactor:GroupPCAP931_1microM       0.000563 ***
+TimeFactor:GroupPCAP931_3microM       0.036349 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation matrix not shown by default, as p = 74 > 20.
+Use print(...., correlation=TRUE)  or
+    vcov(....)	 if you need it
+
+
+
+
+
+
+> summary(model_nb)
+Generalized linear mixed model fit by maximum likelihood ['glmerMod']
+ Family: Negative Binomial(2.7629) ( log )
+Formula: AllBoutCount ~ TimeFactor + Group + TimeFactor * Group + (1 |      Subject) 
+
+      AIC       BIC    logLik  deviance 
+ 77343.54  77869.34 -38595.77  77191.54 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Subject  (Intercept) 0.08761  0.2960  
+ Residual             0.81888  0.9049  
+Number of obs: 7469, groups: Subject, 456
+
+Fixed effects:
+                                       Estimate Std. Error t value Pr(>|z|)    
+(Intercept)                            4.884094   0.036656  133.24  < 2e-16 ***
+TimeFactor                            -0.074982   0.003437  -21.82  < 2e-16 ***
+GroupAripiprazole_10microM            -0.202862   0.132279   -1.53 0.125131    
+GroupAripiprazole_1microM              0.159311   0.131867    1.21 0.227001    
+GroupAripiprazole_3microM              0.171107   0.131789    1.30 0.194171    
+GroupCariprazine_10microM             -0.349330   0.132303   -2.64 0.008282 ** 
+GroupCariprazine_1microM              -0.125100   0.132157   -0.95 0.343843    
+GroupCariprazine_3microM              -0.043137   0.132115   -0.33 0.744041    
+GroupClozapine_10microM               -0.383458   0.132474   -2.89 0.003796 ** 
+GroupClozapine_1microM                -0.002641   0.132286   -0.02 0.984074    
+GroupClozapine_3microM                -0.288257   0.132282   -2.18 0.029323 *  
+GroupCNO_10microM                     -0.065335   0.132503   -0.49 0.621953    
+GroupCNO_1microM                      -0.057829   0.132167   -0.44 0.661718    
+GroupCNO_3microM                      -0.121513   0.132396   -0.92 0.358725    
+GroupHaloperidol_10microM              0.082838   0.131930    0.63 0.530075    
+GroupHaloperidol_1microM               0.209835   0.104158    2.01 0.043947 *  
+GroupHaloperidol_3microM               0.844901   0.104155    8.11 4.98e-16 ***
+GroupNDMC_10microM                    -0.207334   0.104589   -1.98 0.047437 *  
+GroupNDMC_1microM                      0.358708   0.104837    3.42 0.000623 ***
+GroupNDMC_3microM                      0.397578   0.104741    3.80 0.000147 ***
+GroupNDMCHigh_100microM               -0.340735   0.105214   -3.24 0.001202 ** 
+GroupNDMCHigh_25microM                -0.100895   0.104534   -0.97 0.334447    
+GroupNDMCHigh_50microM                -0.147475   0.104627   -1.41 0.158678    
+GroupOSU6162_10microM                 -0.061817   0.104736   -0.59 0.555043    
+GroupOSU6162_1microM                  -0.149704   0.104975   -1.43 0.153843    
+GroupOSU6162_3microM                  -0.055334   0.132091   -0.42 0.675283    
+GroupPCAP1_10microM                    0.002034   0.131998    0.02 0.987704    
+GroupPCAP1_1microM                    -0.007765   0.132464   -0.06 0.953252    
+GroupPCAP1_3microM                    -0.086152   0.132116   -0.65 0.514342    
+GroupPCAP2_10microM                   -0.495564   0.132146   -3.75 0.000177 ***
+GroupPCAP2_1microM                    -0.382944   0.132928   -2.88 0.003966 ** 
+GroupPCAP2_3microM                    -0.424255   0.132330   -3.21 0.001346 ** 
+GroupPCAP814_10microM                 -0.973140   0.133785   -7.27 3.49e-13 ***
+GroupPCAP814_1microM                  -0.458801   0.132366   -3.47 0.000528 ***
+GroupPCAP814_3microM                  -0.690186   0.132665   -5.20 1.97e-07 ***
+GroupPCAP931_10microM                 -0.709734   0.132603   -5.35 8.68e-08 ***
+GroupPCAP931_1microM                   0.398726   0.132385    3.01 0.002597 ** 
+GroupPCAP931_3microM                  -0.087992   0.132361   -0.66 0.506189    
+TimeFactor:GroupAripiprazole_10microM  0.009690   0.012391    0.78 0.434221    
+TimeFactor:GroupAripiprazole_1microM   0.023686   0.012296    1.93 0.054070 .  
+TimeFactor:GroupAripiprazole_3microM   0.042916   0.012272    3.50 0.000470 ***
+TimeFactor:GroupCariprazine_10microM   0.033353   0.012376    2.69 0.007040 ** 
+TimeFactor:GroupCariprazine_1microM    0.009762   0.012366    0.79 0.429861    
+TimeFactor:GroupCariprazine_3microM    0.002018   0.012363    0.16 0.870370    
+TimeFactor:GroupClozapine_10microM     0.061268   0.012384    4.95 7.52e-07 ***
+TimeFactor:GroupClozapine_1microM      0.007442   0.012452    0.60 0.550043    
+TimeFactor:GroupClozapine_3microM      0.072364   0.012411    5.83 5.51e-09 ***
+TimeFactor:GroupCNO_10microM          -0.022404   0.012528   -1.79 0.073734 .  
+TimeFactor:GroupCNO_1microM           -0.001366   0.012377   -0.11 0.912144    
+TimeFactor:GroupCNO_3microM            0.005676   0.012477    0.45 0.649166    
+TimeFactor:GroupHaloperidol_10microM   0.025180   0.012308    2.05 0.040774 *  
+TimeFactor:GroupHaloperidol_1microM    0.037495   0.012254    3.06 0.002214 ** 
+TimeFactor:GroupHaloperidol_3microM    0.041319   0.012232    3.38 0.000730 ***
+TimeFactor:GroupNDMC_10microM          0.007758   0.012341    0.63 0.529554    
+TimeFactor:GroupNDMC_1microM          -0.044239   0.012471   -3.55 0.000389 ***
+TimeFactor:GroupNDMC_3microM          -0.031512   0.012381   -2.55 0.010922 *  
+TimeFactor:GroupNDMCHigh_100microM     0.000855   0.012505    0.07 0.945490    
+TimeFactor:GroupNDMCHigh_25microM      0.044502   0.012302    3.62 0.000297 ***
+TimeFactor:GroupNDMCHigh_50microM      0.072466   0.012299    5.89 3.81e-09 ***
+TimeFactor:GroupOSU6162_10microM       0.022548   0.012346    1.83 0.067787 .  
+TimeFactor:GroupOSU6162_1microM        0.006430   0.012457    0.52 0.605739    
+TimeFactor:GroupOSU6162_3microM        0.014513   0.012348    1.18 0.239866    
+TimeFactor:GroupPCAP1_10microM         0.022626   0.012323    1.84 0.066356 .  
+TimeFactor:GroupPCAP1_1microM         -0.001955   0.012550   -0.16 0.876210    
+TimeFactor:GroupPCAP1_3microM          0.013882   0.012354    1.12 0.261150    
+TimeFactor:GroupPCAP2_10microM         0.108527   0.012304    8.82  < 2e-16 ***
+TimeFactor:GroupPCAP2_1microM          0.013992   0.012680    1.10 0.269817    
+TimeFactor:GroupPCAP2_3microM          0.045815   0.012372    3.70 0.000213 ***
+TimeFactor:GroupPCAP814_10microM       0.010514   0.012703    0.83 0.407855    
+TimeFactor:GroupPCAP814_1microM        0.049940   0.012375    4.04 5.45e-05 ***
+TimeFactor:GroupPCAP814_3microM        0.114729   0.012512    9.17  < 2e-16 ***
+TimeFactor:GroupPCAP931_10microM       0.062684   0.012408    5.05 4.37e-07 ***
+TimeFactor:GroupPCAP931_1microM       -0.083277   0.012563   -6.63 3.39e-11 ***
+TimeFactor:GroupPCAP931_3microM       -0.027584   0.012448   -2.22 0.026695 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation matrix not shown by default, as p = 74 > 20.
+Use print(...., correlation=TRUE)  or
+    vcov(....)	 if you need it
+
+> 
+
+
+
+
+> summary(model_quasipoisson)
+Linear mixed-effects model fit by maximum likelihood
+ Data: all_dataset 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | Subject
+        (Intercept) Residual
+StdDev:   0.2949662 5.039736
+
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects: AllBoutCount ~ TimeFactor + Group + TimeFactor * Group 
+                                          Value  Std.Error   DF   t-value
+(Intercept)                            4.990045 0.03436166 6966 145.22132
+TimeFactor                            -0.089049 0.00348469 6966 -25.55437
+GroupAripiprazole_10microM            -0.232112 0.12904853  429  -1.79864
+GroupAripiprazole_1microM              0.059752 0.11884847  429   0.50275
+GroupAripiprazole_3microM              0.105336 0.11688380  429   0.90120
+GroupCariprazine_10microM             -0.432278 0.13222004  429  -3.26938
+GroupCariprazine_1microM              -0.160860 0.12765709  429  -1.26009
+GroupCariprazine_3microM              -0.064711 0.12584710  429  -0.51420
+GroupClozapine_10microM               -0.467022 0.12675934  429  -3.68432
+GroupClozapine_1microM                 0.073337 0.12211923  429   0.60054
+GroupClozapine_3microM                -0.301505 0.12482160  429  -2.41549
+GroupCNO_10microM                     -0.008841 0.12765304  429  -0.06925
+GroupCNO_1microM                      -0.005668 0.12514766  429  -0.04529
+GroupCNO_3microM                      -0.117294 0.12716599  429  -0.92237
+GroupHaloperidol_10microM              0.012318 0.12021418  429   0.10247
+GroupHaloperidol_1microM               0.114184 0.07803943 6966   1.46316
+GroupHaloperidol_3microM               0.737567 0.07713447 6966   9.56210
+GroupNDMC_10microM                    -0.192310 0.09089032 6966  -2.11585
+GroupNDMC_1microM                      0.413702 0.08672128 6966   4.77048
+GroupNDMC_3microM                      0.556217 0.08970296 6966   6.20065
+GroupNDMCHigh_100microM               -0.465485 0.10313283 6966  -4.51345
+GroupNDMCHigh_25microM                -0.196155 0.09256128 6966  -2.11919
+GroupNDMCHigh_50microM                -0.208126 0.09555891 6966  -2.17798
+GroupOSU6162_10microM                 -0.051099 0.09604403 6966  -0.53204
+GroupOSU6162_1microM                  -0.226552 0.09502183 6966  -2.38421
+GroupOSU6162_3microM                  -0.065315 0.12427561  429  -0.52557
+GroupPCAP1_10microM                   -0.039776 0.12227910  429  -0.32529
+GroupPCAP1_1microM                    -0.034524 0.12472845  429  -0.27679
+GroupPCAP1_3microM                    -0.163400 0.12609574  429  -1.29584
+GroupPCAP2_10microM                   -0.554786 0.12702086  429  -4.36768
+GroupPCAP2_1microM                    -0.359923 0.13236326  429  -2.71921
+GroupPCAP2_3microM                    -0.502694 0.13302988  429  -3.77881
+GroupPCAP814_10microM                 -0.977979 0.15686293  429  -6.23461
+GroupPCAP814_1microM                  -0.556877 0.13344638  429  -4.17304
+GroupPCAP814_3microM                  -0.738634 0.13296496  429  -5.55510
+GroupPCAP931_10microM                 -0.793632 0.14167639  429  -5.60172
+GroupPCAP931_1microM                   0.508564 0.12051709  429   4.21985
+GroupPCAP931_3microM                  -0.043550 0.12892817  429  -0.33778
+TimeFactor:GroupAripiprazole_10microM  0.016101 0.01321727 6966   1.21814
+TimeFactor:GroupAripiprazole_1microM   0.039050 0.01076474 6966   3.62758
+TimeFactor:GroupAripiprazole_3microM   0.051927 0.01018335 6966   5.09922
+TimeFactor:GroupCariprazine_10microM   0.046824 0.01319747 6966   3.54797
+TimeFactor:GroupCariprazine_1microM    0.014021 0.01306632 6966   1.07304
+TimeFactor:GroupCariprazine_3microM    0.004194 0.01291396 6966   0.32478
+TimeFactor:GroupClozapine_10microM     0.088125 0.01132669 6966   7.78030
+TimeFactor:GroupClozapine_1microM     -0.003654 0.01221892 6966  -0.29907
+TimeFactor:GroupClozapine_3microM      0.075550 0.01137026 6966   6.64449
+TimeFactor:GroupCNO_10microM          -0.031067 0.01411419 6966  -2.20111
+TimeFactor:GroupCNO_1microM           -0.009377 0.01300383 6966  -0.72111
+TimeFactor:GroupCNO_3microM            0.005047 0.01318126 6966   0.38287
+TimeFactor:GroupHaloperidol_10microM   0.036918 0.01107298 6966   3.33406
+TimeFactor:GroupHaloperidol_1microM    0.051109 0.00946804 6966   5.39809
+TimeFactor:GroupHaloperidol_3microM    0.053124 0.00872111 6966   6.09143
+TimeFactor:GroupNDMC_10microM          0.003108 0.01231100 6966   0.25243
+TimeFactor:GroupNDMC_1microM          -0.057195 0.01271144 6966  -4.49952
+TimeFactor:GroupNDMC_3microM          -0.070345 0.01330652 6966  -5.28652
+TimeFactor:GroupNDMCHigh_100microM     0.028939 0.01356407 6966   2.13353
+TimeFactor:GroupNDMCHigh_25microM      0.056432 0.01135855 6966   4.96827
+TimeFactor:GroupNDMCHigh_50microM      0.087577 0.01111307 6966   7.88056
+TimeFactor:GroupOSU6162_10microM       0.027842 0.01228737 6966   2.26590
+TimeFactor:GroupOSU6162_1microM        0.007401 0.01282907 6966   0.57687
+TimeFactor:GroupOSU6162_3microM        0.016856 0.01228187 6966   1.37243
+TimeFactor:GroupPCAP1_10microM         0.029241 0.01163136 6966   2.51397
+TimeFactor:GroupPCAP1_1microM          0.003845 0.01271538 6966   0.30240
+TimeFactor:GroupPCAP1_3microM          0.026107 0.01246097 6966   2.09509
+TimeFactor:GroupPCAP2_10microM         0.118540 0.01103300 6966  10.74413
+TimeFactor:GroupPCAP2_1microM          0.018043 0.01383485 6966   1.30417
+TimeFactor:GroupPCAP2_3microM          0.058763 0.01309158 6966   4.48857
+TimeFactor:GroupPCAP814_10microM       0.026869 0.01785453 6966   1.50486
+TimeFactor:GroupPCAP814_1microM        0.066983 0.01296799 6966   5.16528
+TimeFactor:GroupPCAP814_3microM        0.122385 0.01207434 6966  10.13600
+TimeFactor:GroupPCAP931_10microM       0.075808 0.01422458 6966   5.32940
+TimeFactor:GroupPCAP931_1microM       -0.104865 0.01434651 6966  -7.30943
+TimeFactor:GroupPCAP931_3microM       -0.033550 0.01440679 6966  -2.32878
+                                      p-value
+(Intercept)                            0.0000
+TimeFactor                             0.0000
+GroupAripiprazole_10microM             0.0728
+GroupAripiprazole_1microM              0.6154
+GroupAripiprazole_3microM              0.3680
+GroupCariprazine_10microM              0.0012
+GroupCariprazine_1microM               0.2083
+GroupCariprazine_3microM               0.6074
+GroupClozapine_10microM                0.0003
+GroupClozapine_1microM                 0.5485
+GroupClozapine_3microM                 0.0161
+GroupCNO_10microM                      0.9448
+GroupCNO_1microM                       0.9639
+GroupCNO_3microM                       0.3569
+GroupHaloperidol_10microM              0.9184
+GroupHaloperidol_1microM               0.1435
+GroupHaloperidol_3microM               0.0000
+GroupNDMC_10microM                     0.0344
+GroupNDMC_1microM                      0.0000
+GroupNDMC_3microM                      0.0000
+GroupNDMCHigh_100microM                0.0000
+GroupNDMCHigh_25microM                 0.0341
+GroupNDMCHigh_50microM                 0.0294
+GroupOSU6162_10microM                  0.5947
+GroupOSU6162_1microM                   0.0171
+GroupOSU6162_3microM                   0.5995
+GroupPCAP1_10microM                    0.7451
+GroupPCAP1_1microM                     0.7821
+GroupPCAP1_3microM                     0.1957
+GroupPCAP2_10microM                    0.0000
+GroupPCAP2_1microM                     0.0068
+GroupPCAP2_3microM                     0.0002
+GroupPCAP814_10microM                  0.0000
+GroupPCAP814_1microM                   0.0000
+GroupPCAP814_3microM                   0.0000
+GroupPCAP931_10microM                  0.0000
+GroupPCAP931_1microM                   0.0000
+GroupPCAP931_3microM                   0.7357
+TimeFactor:GroupAripiprazole_10microM  0.2232
+TimeFactor:GroupAripiprazole_1microM   0.0003
+TimeFactor:GroupAripiprazole_3microM   0.0000
+TimeFactor:GroupCariprazine_10microM   0.0004
+TimeFactor:GroupCariprazine_1microM    0.2833
+TimeFactor:GroupCariprazine_3microM    0.7454
+TimeFactor:GroupClozapine_10microM     0.0000
+TimeFactor:GroupClozapine_1microM      0.7649
+TimeFactor:GroupClozapine_3microM      0.0000
+TimeFactor:GroupCNO_10microM           0.0278
+TimeFactor:GroupCNO_1microM            0.4709
+TimeFactor:GroupCNO_3microM            0.7018
+TimeFactor:GroupHaloperidol_10microM   0.0009
+TimeFactor:GroupHaloperidol_1microM    0.0000
+TimeFactor:GroupHaloperidol_3microM    0.0000
+TimeFactor:GroupNDMC_10microM          0.8007
+TimeFactor:GroupNDMC_1microM           0.0000
+TimeFactor:GroupNDMC_3microM           0.0000
+TimeFactor:GroupNDMCHigh_100microM     0.0329
+TimeFactor:GroupNDMCHigh_25microM      0.0000
+TimeFactor:GroupNDMCHigh_50microM      0.0000
+TimeFactor:GroupOSU6162_10microM       0.0235
+TimeFactor:GroupOSU6162_1microM        0.5640
+TimeFactor:GroupOSU6162_3microM        0.1700
+TimeFactor:GroupPCAP1_10microM         0.0120
+TimeFactor:GroupPCAP1_1microM          0.7624
+TimeFactor:GroupPCAP1_3microM          0.0362
+TimeFactor:GroupPCAP2_10microM         0.0000
+TimeFactor:GroupPCAP2_1microM          0.1922
+TimeFactor:GroupPCAP2_3microM          0.0000
+TimeFactor:GroupPCAP814_10microM       0.1324
+TimeFactor:GroupPCAP814_1microM        0.0000
+TimeFactor:GroupPCAP814_3microM        0.0000
+TimeFactor:GroupPCAP931_10microM       0.0000
+TimeFactor:GroupPCAP931_1microM        0.0000
+TimeFactor:GroupPCAP931_3microM        0.0199
+
+
+
+
+> summary(model_lm)
+Linear mixed model fit by REML 
+t-tests use  Satterthwaite approximations to degrees of freedom ['lmerMod']
+Formula: Length1BoutCountPerMille ~ TimeFactor + Group + TimeFactor *      Group + (1 | Subject) 
+
+REML criterion at convergence: 92447.9 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Subject  (Intercept)  4139     64.34  
+ Residual             13316    115.39  
+Number of obs: 7469, groups: Subject, 456
+
+Fixed effects:
+                                       Estimate Std. Error        df t value
+(Intercept)                            598.4892     7.7981 1238.0000  76.748
+TimeFactor                             -10.5666     0.7147 6955.0000 -14.784
+GroupAripiprazole_10microM             -73.6807    28.1041 1236.0000  -2.622
+GroupAripiprazole_1microM               38.8518    28.1041 1236.0000   1.382
+GroupAripiprazole_3microM               36.7174    28.1041 1236.0000   1.306
+GroupCariprazine_10microM               10.9512    28.1041 1236.0000   0.390
+GroupCariprazine_1microM                21.6948    28.1041 1236.0000   0.772
+GroupCariprazine_3microM                37.7058    28.1041 1236.0000   1.342
+GroupClozapine_10microM                -50.5719    28.1041 1236.0000  -1.799
+GroupClozapine_1microM                 -30.8364    28.1464 1243.0000  -1.096
+GroupClozapine_3microM                 -33.4600    28.1464 1243.0000  -1.189
+GroupCNO_10microM                       22.3428    28.1464 1243.0000   0.794
+GroupCNO_1microM                       -56.0528    28.1041 1236.0000  -1.994
+GroupCNO_3microM                        13.3892    28.1464 1243.0000   0.476
+GroupHaloperidol_10microM              -30.1338    28.1041 1236.0000  -1.072
+GroupHaloperidol_1microM               -10.2352    21.8851 7297.0000  -0.468
+GroupHaloperidol_3microM                25.2583    21.8932 7300.0000   1.154
+GroupNDMC_10microM                     -41.6558    21.8851 7297.0000  -1.903
+GroupNDMC_1microM                       -5.6065    21.9379 7296.0000  -0.256
+GroupNDMC_3microM                       51.3736    21.8885 7298.0000   2.347
+GroupNDMCHigh_100microM                  4.3412    21.9379 7296.0000   0.198
+GroupNDMCHigh_25microM                 -45.3545    21.8885 7298.0000  -2.072
+GroupNDMCHigh_50microM                  55.9112    21.8851 7297.0000   2.555
+GroupOSU6162_10microM                   57.1452    21.8851 7297.0000   2.611
+GroupOSU6162_1microM                    -8.5557    21.9379 7296.0000  -0.390
+GroupOSU6162_3microM                    51.4879    28.1041 1236.0000   1.832
+GroupPCAP1_10microM                     43.9567    28.1041 1236.0000   1.564
+GroupPCAP1_1microM                      26.1572    28.1757 1247.0000   0.928
+GroupPCAP1_3microM                      36.2902    28.1041 1236.0000   1.291
+GroupPCAP2_10microM                    -31.4066    28.1041 1236.0000  -1.118
+GroupPCAP2_1microM                     -72.6519    28.1937 1249.0000  -2.577
+GroupPCAP2_3microM                     -43.4769    28.1041 1236.0000  -1.547
+GroupPCAP814_10microM                   47.0047    28.1041 1236.0000   1.673
+GroupPCAP814_1microM                   -88.7460    28.1041 1236.0000  -3.158
+GroupPCAP814_3microM                   -10.5276    28.1757 1247.0000  -0.374
+GroupPCAP931_10microM                   37.9921    28.1041 1236.0000   1.352
+GroupPCAP931_1microM                   142.6673    28.1464 1243.0000   5.069
+GroupPCAP931_3microM                    65.3527    28.1041 1236.0000   2.325
+TimeFactor:GroupAripiprazole_10microM   16.1289     2.5706 6955.0000   6.274
+TimeFactor:GroupAripiprazole_1microM     8.2487     2.5706 6955.0000   3.209
+TimeFactor:GroupAripiprazole_3microM     9.3520     2.5706 6955.0000   3.638
+TimeFactor:GroupCariprazine_10microM    -1.9963     2.5706 6955.0000  -0.777
+TimeFactor:GroupCariprazine_1microM      4.6833     2.5706 6955.0000   1.822
+TimeFactor:GroupCariprazine_3microM     -2.8224     2.5706 6955.0000  -1.098
+TimeFactor:GroupClozapine_10microM       3.8756     2.5706 6955.0000   1.508
+TimeFactor:GroupClozapine_1microM       -1.9140     2.5917 6958.0000  -0.738
+TimeFactor:GroupClozapine_3microM        7.7106     2.5917 6958.0000   2.975
+TimeFactor:GroupCNO_10microM            -2.1976     2.5917 6958.0000  -0.848
+TimeFactor:GroupCNO_1microM             -2.9463     2.5706 6955.0000  -1.146
+TimeFactor:GroupCNO_3microM             -3.6745     2.5917 6958.0000  -1.418
+TimeFactor:GroupHaloperidol_10microM    13.0462     2.5706 6955.0000   5.075
+TimeFactor:GroupHaloperidol_1microM      6.7195     2.5706 6955.0000   2.614
+TimeFactor:GroupHaloperidol_3microM     10.9836     2.5706 6955.0000   4.273
+TimeFactor:GroupNDMC_10microM            1.0463     2.5706 6955.0000   0.407
+TimeFactor:GroupNDMC_1microM            -5.4598     2.5911 6956.0000  -2.107
+TimeFactor:GroupNDMC_3microM            -4.5016     2.5706 6955.0000  -1.751
+TimeFactor:GroupNDMCHigh_100microM       4.8508     2.5911 6956.0000   1.872
+TimeFactor:GroupNDMCHigh_25microM        3.4959     2.5706 6955.0000   1.360
+TimeFactor:GroupNDMCHigh_50microM        0.9783     2.5706 6955.0000   0.381
+TimeFactor:GroupOSU6162_10microM         1.0339     2.5706 6955.0000   0.402
+TimeFactor:GroupOSU6162_1microM          0.7143     2.5911 6956.0000   0.276
+TimeFactor:GroupOSU6162_3microM         -6.6809     2.5706 6955.0000  -2.599
+TimeFactor:GroupPCAP1_10microM           1.7228     2.5706 6955.0000   0.670
+TimeFactor:GroupPCAP1_1microM           -3.9951     2.6094 6968.0000  -1.531
+TimeFactor:GroupPCAP1_3microM           -1.5986     2.5706 6955.0000  -0.622
+TimeFactor:GroupPCAP2_10microM           5.7604     2.5706 6955.0000   2.241
+TimeFactor:GroupPCAP2_1microM            0.8080     2.6236 6983.0000   0.308
+TimeFactor:GroupPCAP2_3microM            6.9222     2.5706 6955.0000   2.693
+TimeFactor:GroupPCAP814_10microM         4.8929     2.5706 6955.0000   1.903
+TimeFactor:GroupPCAP814_1microM          8.7840     2.5706 6955.0000   3.417
+TimeFactor:GroupPCAP814_3microM          7.5679     2.6094 6968.0000   2.900
+TimeFactor:GroupPCAP931_10microM         4.3243     2.5706 6955.0000   1.682
+TimeFactor:GroupPCAP931_1microM        -10.4741     2.5917 6958.0000  -4.041
+TimeFactor:GroupPCAP931_3microM         -6.1319     2.5706 6955.0000  -2.385
+                                      Pr(>|t|)    
+(Intercept)                            < 2e-16 ***
+TimeFactor                             < 2e-16 ***
+GroupAripiprazole_10microM            0.008857 ** 
+GroupAripiprazole_1microM             0.167091    
+GroupAripiprazole_3microM             0.191633    
+GroupCariprazine_10microM             0.696850    
+GroupCariprazine_1microM              0.440295    
+GroupCariprazine_3microM              0.179957    
+GroupClozapine_10microM               0.072191 .  
+GroupClozapine_1microM                0.273478    
+GroupClozapine_3microM                0.234750    
+GroupCNO_10microM                     0.427459    
+GroupCNO_1microM                      0.046320 *  
+GroupCNO_3microM                      0.634373    
+GroupHaloperidol_10microM             0.283830    
+GroupHaloperidol_1microM              0.640029    
+GroupHaloperidol_3microM              0.248659    
+GroupNDMC_10microM                    0.057029 .  
+GroupNDMC_1microM                     0.798297    
+GroupNDMC_3microM                     0.018949 *  
+GroupNDMCHigh_100microM               0.843139    
+GroupNDMCHigh_25microM                0.038294 *  
+GroupNDMCHigh_50microM                0.010646 *  
+GroupOSU6162_10microM                 0.009042 ** 
+GroupOSU6162_1microM                  0.696551    
+GroupOSU6162_3microM                  0.067185 .  
+GroupPCAP1_10microM                   0.118057    
+GroupPCAP1_1microM                    0.353401    
+GroupPCAP1_3microM                    0.196849    
+GroupPCAP2_10microM                   0.263993    
+GroupPCAP2_1microM                    0.010083 *  
+GroupPCAP2_3microM                    0.122120    
+GroupPCAP814_10microM                 0.094675 .  
+GroupPCAP814_1microM                  0.001628 ** 
+GroupPCAP814_3microM                  0.708734    
+GroupPCAP931_10microM                 0.176676    
+GroupPCAP931_1microM                  4.61e-07 ***
+GroupPCAP931_3microM                  0.020213 *  
+TimeFactor:GroupAripiprazole_10microM 3.72e-10 ***
+TimeFactor:GroupAripiprazole_1microM  0.001338 ** 
+TimeFactor:GroupAripiprazole_3microM  0.000277 ***
+TimeFactor:GroupCariprazine_10microM  0.437414    
+TimeFactor:GroupCariprazine_1microM   0.068516 .  
+TimeFactor:GroupCariprazine_3microM   0.272260    
+TimeFactor:GroupClozapine_10microM    0.131681    
+TimeFactor:GroupClozapine_1microM     0.460236    
+TimeFactor:GroupClozapine_3microM     0.002939 ** 
+TimeFactor:GroupCNO_10microM          0.396506    
+TimeFactor:GroupCNO_1microM           0.251768    
+TimeFactor:GroupCNO_3microM           0.156301    
+TimeFactor:GroupHaloperidol_10microM  3.97e-07 ***
+TimeFactor:GroupHaloperidol_1microM   0.008968 ** 
+TimeFactor:GroupHaloperidol_3microM   1.96e-05 ***
+TimeFactor:GroupNDMC_10microM         0.683998    
+TimeFactor:GroupNDMC_1microM          0.035144 *  
+TimeFactor:GroupNDMC_3microM          0.079956 .  
+TimeFactor:GroupNDMCHigh_100microM    0.061238 .  
+TimeFactor:GroupNDMCHigh_25microM     0.173881    
+TimeFactor:GroupNDMCHigh_50microM     0.703516    
+TimeFactor:GroupOSU6162_10microM      0.687556    
+TimeFactor:GroupOSU6162_1microM       0.782818    
+TimeFactor:GroupOSU6162_3microM       0.009369 ** 
+TimeFactor:GroupPCAP1_10microM        0.502738    
+TimeFactor:GroupPCAP1_1microM         0.125798    
+TimeFactor:GroupPCAP1_3microM         0.534038    
+TimeFactor:GroupPCAP2_10microM        0.025063 *  
+TimeFactor:GroupPCAP2_1microM         0.758125    
+TimeFactor:GroupPCAP2_3microM         0.007101 ** 
+TimeFactor:GroupPCAP814_10microM      0.057027 .  
+TimeFactor:GroupPCAP814_1microM       0.000636 ***
+TimeFactor:GroupPCAP814_3microM       0.003740 ** 
+TimeFactor:GroupPCAP931_10microM      0.092568 .  
+TimeFactor:GroupPCAP931_1microM       5.37e-05 ***
+TimeFactor:GroupPCAP931_3microM       0.017085 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation matrix not shown by default, as p = 74 > 20.
+Use print(...., correlation=TRUE)  or
+    vcov(....)	 if you need it
+
+> 
+> 
+
+

@@ -1,0 +1,4 @@
+"Length3Transition_js_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" -0.447769506039873
+"TimeFactor:GroupControl_DarkApoHigh" 0

@@ -1,0 +1,4 @@
+"Length4BoutCBendsProportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" 0.906896885104226
+"TimeFactor:GroupControl_DarkApoHigh" 0

@@ -1,0 +1,32 @@
+"Length2BoutScootsProportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" -0.230322523559274
+"TimeFactor:GroupControl_DarkApoHigh" 0.0151407495966351
+"Dark_Length2BoutScootsProportion"
+58
+58
+58
+57
+56
+59
+59
+59
+59
+61
+58
+60
+61
+"DarkApoHigh_Length2BoutScootsProportion"
+51
+53
+44
+47
+46
+47
+49
+50
+51
+55
+53
+55
+60

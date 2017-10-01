@@ -1,0 +1,162 @@
+"Length6PlusTransition_ssg_Proportion"
+"TimeFactor" 0.585167703314927
+"GroupAripiprazole_10microM_Dark" 0.15844706761052
+"GroupAripiprazole_1microM_Dark" 1
+"GroupAripiprazole_3microM_Dark" 0.205641537988501
+"GroupCariprazine_10microM_Dark" 0.113259935232907
+"GroupCariprazine_1microM_Dark" 1
+"GroupCariprazine_3microM_Dark" 1
+"GroupClozapine_10microM_Dark" 1
+"GroupClozapine_1microM_Dark" 0.0226673441608933
+"GroupClozapine_3microM_Dark" 0.0213281903550121
+"GroupCNO_10microM_Dark" 0.0682773781045929
+"GroupCNO_1microM_Dark" 1
+"GroupCNO_3microM_Dark" 1
+"GroupHaloperidol_10microM_Dark" 1
+"GroupHaloperidol_1microM_Dark" 1
+"GroupHaloperidol_3microM_Dark" 1
+"GroupNDMC_10microM_Dark" 1
+"GroupNDMC_1microM_Dark" 1
+"GroupNDMC_3microM_Dark" 1
+"GroupNDMCHigh_100microM_Dark" 1
+"GroupNDMCHigh_25microM_Dark" 1
+"GroupNDMCHigh_50microM_Dark" 1
+"GroupOSU6162_10microM_Dark" 1
+"GroupOSU6162_1microM_Dark" 1
+"GroupOSU6162_3microM_Dark" 1
+"GroupPCAP1_10microM_Dark" 1
+"GroupPCAP1_1microM_Dark" 1
+"GroupPCAP1_3microM_Dark" 1
+"GroupPCAP2_10microM_Dark" 1
+"GroupPCAP2_1microM_Dark" 1
+"GroupPCAP2_3microM_Dark" 0.193103025925166
+"GroupPCAP814_10microM_Dark" 0.0195980036355791
+"GroupPCAP814_1microM_Dark" 0.0472642368146474
+"GroupPCAP814_3microM_Dark" 0.0938112001572857
+"GroupPCAP931_10microM_Dark" 1
+"GroupPCAP931_1microM_Dark" 1
+"GroupPCAP931_3microM_Dark" 0.152353611853176
+"GroupAripiprazole_10microM_DarkApoHigh" 1
+"GroupAripiprazole_1microM_DarkApoHigh" 0.00786996948076221
+"GroupAripiprazole_3microM_DarkApoHigh" 1
+"GroupCariprazine_10microM_DarkApoHigh" 1
+"GroupCariprazine_1microM_DarkApoHigh" 0.106011213260387
+"GroupCariprazine_3microM_DarkApoHigh" 1
+"GroupClozapine_10microM_DarkApoHigh" 0.184228261203019
+"GroupClozapine_1microM_DarkApoHigh" 1
+"GroupClozapine_3microM_DarkApoHigh" 0.213148962843946
+"GroupCNO_10microM_DarkApoHigh" 1
+"GroupCNO_1microM_DarkApoHigh" 1
+"GroupCNO_3microM_DarkApoHigh" 0.090322772694242
+"GroupControl_DarkApoHigh" 1
+"GroupHaloperidol_10microM_DarkApoHigh" 1
+"GroupHaloperidol_1microM_DarkApoHigh" 0.151306215480742
+"GroupHaloperidol_3microM_DarkApoHigh" 0.153704866273231
+"GroupNDMC_10microM_DarkApoHigh" 1
+"GroupNDMC_1microM_DarkApoHigh" 1
+"GroupNDMC_3microM_DarkApoHigh" 0.146609548244343
+"GroupNDMCHigh_100microM_DarkApoHigh" 1
+"GroupNDMCHigh_25microM_DarkApoHigh" 0.144463379521288
+"GroupNDMCHigh_50microM_DarkApoHigh" 1
+"GroupOSU6162_10microM_DarkApoHigh" 1
+"GroupOSU6162_1microM_DarkApoHigh" 1
+"GroupOSU6162_3microM_DarkApoHigh" 1
+"GroupPCAP1_10microM_DarkApoHigh" 1
+"GroupPCAP1_1microM_DarkApoHigh" 1
+"GroupPCAP1_3microM_DarkApoHigh" 1
+"GroupPCAP2_10microM_DarkApoHigh" 1
+"GroupPCAP2_1microM_DarkApoHigh" 1
+"GroupPCAP2_3microM_DarkApoHigh" 1
+"GroupPCAP814_10microM_DarkApoHigh" 1
+"GroupPCAP814_1microM_DarkApoHigh" 1
+"GroupPCAP814_3microM_DarkApoHigh" 0.100378419502203
+"GroupPCAP931_10microM_DarkApoHigh" 1
+"GroupPCAP931_1microM_DarkApoHigh" 1
+"GroupPCAP931_3microM_DarkApoHigh" 1
+"TimeFactor:GroupAripiprazole_10microM_Dark" 1.78885083333283
+"TimeFactor:GroupAripiprazole_1microM_Dark" 1.74597565791705
+"TimeFactor:GroupAripiprazole_3microM_Dark" 1.69743567306334
+"TimeFactor:GroupCariprazine_10microM_Dark" 1.76743412609869
+"TimeFactor:GroupCariprazine_1microM_Dark" 1
+"TimeFactor:GroupCariprazine_3microM_Dark" 1
+"TimeFactor:GroupClozapine_10microM_Dark" 1
+"TimeFactor:GroupClozapine_1microM_Dark" 1.98910819366844
+"TimeFactor:GroupClozapine_3microM_Dark" 2.13626281856872
+"TimeFactor:GroupCNO_10microM_Dark" 1
+"TimeFactor:GroupCNO_1microM_Dark" 1
+"TimeFactor:GroupCNO_3microM_Dark" 1
+"TimeFactor:GroupHaloperidol_10microM_Dark" 1.7170946838184
+"TimeFactor:GroupHaloperidol_1microM_Dark" 1
+"TimeFactor:GroupHaloperidol_3microM_Dark" 1
+"TimeFactor:GroupNDMC_10microM_Dark" 1.74303462892662
+"TimeFactor:GroupNDMC_1microM_Dark" 1
+"TimeFactor:GroupNDMC_3microM_Dark" 1
+"TimeFactor:GroupNDMCHigh_100microM_Dark" 1
+"TimeFactor:GroupNDMCHigh_25microM_Dark" 1
+"TimeFactor:GroupNDMCHigh_50microM_Dark" 1
+"TimeFactor:GroupOSU6162_10microM_Dark" 1
+"TimeFactor:GroupOSU6162_1microM_Dark" 1
+"TimeFactor:GroupOSU6162_3microM_Dark" 1
+"TimeFactor:GroupPCAP1_10microM_Dark" 1
+"TimeFactor:GroupPCAP1_1microM_Dark" 1
+"TimeFactor:GroupPCAP1_3microM_Dark" 1
+"TimeFactor:GroupPCAP2_10microM_Dark" 1
+"TimeFactor:GroupPCAP2_1microM_Dark" 1
+"TimeFactor:GroupPCAP2_3microM_Dark" 1.76108776532619
+"TimeFactor:GroupPCAP814_10microM_Dark" 2.09441142010027
+"TimeFactor:GroupPCAP814_1microM_Dark" 1.96510784876869
+"TimeFactor:GroupPCAP814_3microM_Dark" 1.93421673653364
+"TimeFactor:GroupPCAP931_10microM_Dark" 1
+"TimeFactor:GroupPCAP931_1microM_Dark" 1
+"TimeFactor:GroupPCAP931_3microM_Dark" 1
+"TimeFactor:GroupAripiprazole_10microM_DarkApoHigh" 1
+"TimeFactor:GroupAripiprazole_1microM_DarkApoHigh" 2.26859646179599
+"TimeFactor:GroupAripiprazole_3microM_DarkApoHigh" 1
+"TimeFactor:GroupCariprazine_10microM_DarkApoHigh" 1.78111210668263
+"TimeFactor:GroupCariprazine_1microM_DarkApoHigh" 1.92370067364984
+"TimeFactor:GroupCariprazine_3microM_DarkApoHigh" 1
+"TimeFactor:GroupClozapine_10microM_DarkApoHigh" 1.83588151119686
+"TimeFactor:GroupClozapine_1microM_DarkApoHigh" 1.69744012414807
+"TimeFactor:GroupClozapine_3microM_DarkApoHigh" 1.75680374392735
+"TimeFactor:GroupCNO_10microM_DarkApoHigh" 1
+"TimeFactor:GroupCNO_1microM_DarkApoHigh" 1.78323561328229
+"TimeFactor:GroupCNO_3microM_DarkApoHigh" 2.00355895532626
+"TimeFactor:GroupControl_DarkApoHigh" 1.68104305954205
+"TimeFactor:GroupHaloperidol_10microM_DarkApoHigh" 1.75163303159696
+"TimeFactor:GroupHaloperidol_1microM_DarkApoHigh" 1.79517414842818
+"TimeFactor:GroupHaloperidol_3microM_DarkApoHigh" 1.8003281500768
+"TimeFactor:GroupNDMC_10microM_DarkApoHigh" 1.79293855169813
+"TimeFactor:GroupNDMC_1microM_DarkApoHigh" 1.82423264333391
+"TimeFactor:GroupNDMC_3microM_DarkApoHigh" 1.85670611919226
+"TimeFactor:GroupNDMCHigh_100microM_DarkApoHigh" 1
+"TimeFactor:GroupNDMCHigh_25microM_DarkApoHigh" 1.96475797373647
+"TimeFactor:GroupNDMCHigh_50microM_DarkApoHigh" 1.7627109424885
+"TimeFactor:GroupOSU6162_10microM_DarkApoHigh" 1
+"TimeFactor:GroupOSU6162_1microM_DarkApoHigh" 1
+"TimeFactor:GroupOSU6162_3microM_DarkApoHigh" 1.82902412632589
+"TimeFactor:GroupPCAP1_10microM_DarkApoHigh" 1.69449575351894
+"TimeFactor:GroupPCAP1_1microM_DarkApoHigh" 1.69545034997642
+"TimeFactor:GroupPCAP1_3microM_DarkApoHigh" 1.76251959486419
+"TimeFactor:GroupPCAP2_10microM_DarkApoHigh" 1.66247253420962
+"TimeFactor:GroupPCAP2_1microM_DarkApoHigh" 1
+"TimeFactor:GroupPCAP2_3microM_DarkApoHigh" 1.71207461935831
+"TimeFactor:GroupPCAP814_10microM_DarkApoHigh" 1.7674066436318
+"TimeFactor:GroupPCAP814_1microM_DarkApoHigh" 1.76834042301275
+"TimeFactor:GroupPCAP814_3microM_DarkApoHigh" 1.95401494277652
+"TimeFactor:GroupPCAP931_10microM_DarkApoHigh" 1
+"TimeFactor:GroupPCAP931_1microM_DarkApoHigh" 1.78315180152857
+"TimeFactor:GroupPCAP931_3microM_DarkApoHigh" 1.66013960864493
+"Control_Dark" "Aripiprazole_10microM_Dark" "Aripiprazole_1microM_Dark" "Aripiprazole_3microM_Dark" "Cariprazine_10microM_Dark" "Cariprazine_1microM_Dark" "Cariprazine_3microM_Dark" "Clozapine_10microM_Dark" "Clozapine_1microM_Dark" "Clozapine_3microM_Dark" "CNO_10microM_Dark" "CNO_1microM_Dark" "CNO_3microM_Dark" "Haloperidol_10microM_Dark" "Haloperidol_1microM_Dark" "Haloperidol_3microM_Dark" "NDMC_10microM_Dark" "NDMC_1microM_Dark" "NDMC_3microM_Dark" "NDMCHigh_100microM_Dark" "NDMCHigh_25microM_Dark" "NDMCHigh_50microM_Dark" "OSU6162_10microM_Dark" "OSU6162_1microM_Dark" "OSU6162_3microM_Dark" "PCAP1_10microM_Dark" "PCAP1_1microM_Dark" "PCAP1_3microM_Dark" "PCAP2_10microM_Dark" "PCAP2_1microM_Dark" "PCAP2_3microM_Dark" "PCAP814_10microM_Dark" "PCAP814_1microM_Dark" "PCAP814_3microM_Dark" "PCAP931_10microM_Dark" "PCAP931_1microM_Dark" "PCAP931_3microM_Dark" "Aripiprazole_10microM_DarkApoHigh" "Aripiprazole_1microM_DarkApoHigh" "Aripiprazole_3microM_DarkApoHigh" "Cariprazine_10microM_DarkApoHigh" "Cariprazine_1microM_DarkApoHigh" "Cariprazine_3microM_DarkApoHigh" "Clozapine_10microM_DarkApoHigh" "Clozapine_1microM_DarkApoHigh" "Clozapine_3microM_DarkApoHigh" "CNO_10microM_DarkApoHigh" "CNO_1microM_DarkApoHigh" "CNO_3microM_DarkApoHigh" "Control_DarkApoHigh" "Haloperidol_10microM_DarkApoHigh" "Haloperidol_1microM_DarkApoHigh" "Haloperidol_3microM_DarkApoHigh" "NDMC_10microM_DarkApoHigh" "NDMC_1microM_DarkApoHigh" "NDMC_3microM_DarkApoHigh" "NDMCHigh_100microM_DarkApoHigh" "NDMCHigh_25microM_DarkApoHigh" "NDMCHigh_50microM_DarkApoHigh" "OSU6162_10microM_DarkApoHigh" "OSU6162_1microM_DarkApoHigh" "OSU6162_3microM_DarkApoHigh" "PCAP1_10microM_DarkApoHigh" "PCAP1_1microM_DarkApoHigh" "PCAP1_3microM_DarkApoHigh" "PCAP2_10microM_DarkApoHigh" "PCAP2_1microM_DarkApoHigh" "PCAP2_3microM_DarkApoHigh" "PCAP814_10microM_DarkApoHigh" "PCAP814_1microM_DarkApoHigh" "PCAP814_3microM_DarkApoHigh" "PCAP931_10microM_DarkApoHigh" "PCAP931_1microM_DarkApoHigh" "PCAP931_3microM_DarkApoHigh"
+1 1 2 3 1 1 2 3 1 0 0 0 0 2 0 0 0 1 2 0 3 4 0 0 4 0 0 0 2 0 2 0 0 0 3 1 3 1 0 2 0 1 0 1 2 0 1 1 0 0 2 0 1 0 1 2 1 1 2 0 1 4 0 1 1 1 3 0 1 1 0 3 2 1
+2 1 0 0 0 1 0 0 0 0 0 0 0 0 2 3 0 1 2 0 1 1 0 2 0 0 0 2 3 0 1 0 1 1 5 3 5 1 0 0 0 1 2 0 2 1 0 4 1 1 2 0 0 1 1 0 1 2 2 0 1 1 1 2 3 3 3 2 0 2 1 2 2 2
+1 0 2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 3 1 0 0 0 1 2 1 0 0 0 0 1 1 0 1 2 0 0 0 2 2 1 0 2 0 2 0 0 1 0 0 1 2 1 0 1 2 4 1 2 1 2 3 2
+0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 4 0 0 1 0 0 0 0 0 0 0 0 0 0 3 0 1 1 0 0 3 0 0 1 2 1 2 1 2 2 3 1 0 0 0 3 0 1 2 1 3 1 2 1 1 2 3 1 2 1 0 4 1 4
+0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 3 0 0 1 1 1 1 3 1 1 2 3 2 2 0 2 0 0 1 4 0 2 1 0 2 2 3 1 2 3 1 3 1 1 3 3 3
+0 1 2 0 0 0 0 0 0 0 0 0 0 1 0 0 2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 2 0 0 1 2 1 2 3 1 2 3 4 2 1 4 2 1 0 1 3 1 2 3 2 1 2 3 1 2 5 2 2 1 2
+0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 1 1 1 2 1 1 1 2 2 1 0 2 2 3 1 1 2 1 2 1 3 2 5 1 2 2 2 1 3 3 2 4 3 1 3 2 2
+0 0 0 3 2 0 0 0 0 0 0 0 0 2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 1 0 0 0 0 0 1 0 3 1 2 3 1 2 2 2 2 5 0 1 2 2 3 0 0 1 2 2 1 4 1 1 1 1 2 2 4 0 3 3 2
+0 0 1 1 2 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 3 1 2 4 1 2 2 1 2 1 2 1 0 0 1 1 0 2 3 2 1 4 3 2 3 1 0 3 2 2
+0 1 0 0 4 0 0 0 2 0 0 0 0 3 1 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 2 3 0 0 0 0 0 0 0 0 0 3 3 1 1 2 3 2 2 0 2 3 1 2 2 2 2 1 0 1 3 2 1 2 1 3 1 3 2 3 3 2
+0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 2 1 0 2 0 0 2 3 2 2 3 3 2 2 0 0 1 4 1 0 5 2 0 1 0 4 3 2 3 2 3 3 1 2 2 3 1
+0 0 0 0 1 0 0 0 0 2 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 2 1 1 0 1 1 0 2 4 0 0 1 1 1 0 1 2 3 1 0 2 2 0 0 0 2 2 1 2 2 3 1 2 1 1 1 3
+0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 4 2 1 0 1 1 4 3 1 1 4 1 0 2 2 0 0 0 1 1 1 3 1 4 1 1 1 0 2 3

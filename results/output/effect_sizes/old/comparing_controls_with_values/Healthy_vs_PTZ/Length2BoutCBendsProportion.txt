@@ -1,0 +1,32 @@
+"Length2BoutCBendsProportion"
+"TimeFactor" -0.11269923173586
+"GroupControl_DarkPTZ" 0.871706362988215
+"TimeFactor:GroupControl_DarkPTZ" 0.0868179085807042
+"Dark_Length2BoutCBendsProportion"
+2
+2
+3
+3
+2
+2
+2
+2
+3
+2
+3
+2
+1
+"DarkPTZ_Length2BoutCBendsProportion"
+5
+10
+11
+12
+10
+10
+8
+8
+8
+9
+8
+7
+8

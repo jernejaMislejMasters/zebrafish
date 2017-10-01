@@ -1,0 +1,4 @@
+"Length4BoutScootsProportion"
+"TimeFactor" 0
+"GroupControl_DarkPTZ" -0.258570189659674
+"TimeFactor:GroupControl_DarkPTZ" 0

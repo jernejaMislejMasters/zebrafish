@@ -1,0 +1,32 @@
+"Length2Transition_ss_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkApoLow" -0.218335186608057
+"TimeFactor:GroupControl_DarkApoLow" -0.0236458779010806
+"Dark_Length2Transition_ss_Proportion"
+19
+18
+20
+19
+17
+23
+24
+23
+22
+26
+21
+24
+26
+"DarkApoLow_Length2Transition_ss_Proportion"
+16
+11
+11
+14
+11
+17
+16
+11
+13
+15
+16
+15
+12

@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Introduction}{17}{section.1}
+\contentsline {section}{\numberline {2}Methods}{19}{section.2}
+\contentsline {subsection}{\numberline {2.1}Experimental design}{19}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Data analysis}{20}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Data format}{20}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Descriptive statistics}{22}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Outliers}{23}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Exploratory data analysis}{24}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Mixed effects analysis}{25}{subsubsection.2.2.5}
+\contentsline {section}{\numberline {3}Results}{25}{section.3}
+\contentsline {subsection}{\numberline {3.1}Descriptive statistics}{25}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Outliers detection and removal}{27}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Exploratory data analysis}{28}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Mixed effects analysis}{51}{subsection.3.4}
+\contentsline {section}{\numberline {4}Closure}{56}{section.4}
+\contentsline {subsection}{\numberline {4.1}Discussion}{56}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Conclusions}{59}{subsection.4.2}
+\contentsline {section}{\numberline {A}Experimental design Appendix}{64}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Recording of different condtitions}{64}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Turn type differentiation}{64}{subsection.A.2}
+\contentsline {section}{\numberline {B}Descriptive statistics Appendix}{65}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Bout count}{65}{subsection.B.1}
+\contentsline {subsubsection}{\numberline {B.1.1}Total bout count per length in each condition}{65}{subsubsection.B.1.1}
+\contentsline {subsubsection}{\numberline {B.1.2}Total bout count per length through time, in each condition}{66}{subsubsection.B.1.2}
+\contentsline {subsection}{\numberline {B.2}Turn proportions}{68}{subsection.B.2}
+\contentsline {subsubsection}{\numberline {B.2.1}Turn proportions per bout length in each condition}{68}{subsubsection.B.2.1}
+\contentsline {subsubsection}{\numberline {B.2.2}Turn proportions in bout length strata, through the time frames, in each condition}{69}{subsubsection.B.2.2}
+\contentsline {subsection}{\numberline {B.3}Transition proportions}{78}{subsection.B.3}
+\contentsline {subsubsection}{\numberline {B.3.1}Transitions of length 3, in each condition}{78}{subsubsection.B.3.1}
+\contentsline {section}{\numberline {C}Exploratory data analysis Appendix}{79}{appendix.C}
+\contentsline {subsection}{\numberline {C.1}PCA plots}{79}{subsection.C.1}
+\contentsline {subsection}{\numberline {C.2}Most influential variables in PCA}{92}{subsection.C.2}
+\contentsline {subsection}{\numberline {C.3}Summarized PCA plots, showing direction of change in time}{96}{subsection.C.3}
+\contentsline {subsection}{\numberline {C.4}Summarized PCA plots, showing direction of change in dosage}{132}{subsection.C.4}
+\contentsline {subsection}{\numberline {C.5}Compound ranking based on PCA}{144}{subsection.C.5}
+\contentsline {subsection}{\numberline {C.6}Circular cladograms, based on Euclidean distances between PCs}{167}{subsection.C.6}
+\contentsline {section}{\numberline {D}Mixed effects analysis Appendix}{179}{appendix.D}
+\contentsline {subsection}{\numberline {D.1}Overall group effects}{179}{subsection.D.1}
+\contentsline {subsection}{\numberline {D.2}Group and timeframe effects}{186}{subsection.D.2}

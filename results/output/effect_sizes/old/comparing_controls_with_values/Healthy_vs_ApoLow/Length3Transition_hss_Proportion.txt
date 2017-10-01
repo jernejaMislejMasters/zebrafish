@@ -1,0 +1,32 @@
+"Length3Transition_hss_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkApoLow" 0
+"TimeFactor:GroupControl_DarkApoLow" -0.123009227281715
+"Dark_Length3Transition_hss_Proportion"
+2
+3
+2
+2
+2
+2
+2
+1
+2
+1
+3
+2
+2
+"DarkApoLow_Length3Transition_hss_Proportion"
+3
+3
+2
+3
+1
+2
+2
+1
+1
+2
+0
+1
+1

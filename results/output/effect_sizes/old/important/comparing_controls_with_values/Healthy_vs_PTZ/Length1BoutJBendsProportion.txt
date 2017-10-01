@@ -1,0 +1,32 @@
+"Length1BoutJBendsProportion"
+"TimeFactor" -0.0379895215756774
+"GroupControl_DarkPTZ" -0.390300978571231
+"TimeFactor:GroupControl_DarkPTZ" 0
+"Dark_Length1BoutJBendsProportion"
+5
+5
+5
+5
+5
+5
+5
+4
+4
+4
+4
+3
+4
+"DarkPTZ_Length1BoutJBendsProportion"
+4
+3
+3
+3
+3
+3
+3
+4
+3
+2
+3
+3
+2

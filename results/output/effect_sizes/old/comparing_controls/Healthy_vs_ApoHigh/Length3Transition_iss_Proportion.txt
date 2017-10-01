@@ -1,0 +1,4 @@
+"Length3Transition_iss_Proportion"
+"TimeFactor" 0
+"GroupControl_DarkApoHigh" -0.459497974253135
+"TimeFactor:GroupControl_DarkApoHigh" 0

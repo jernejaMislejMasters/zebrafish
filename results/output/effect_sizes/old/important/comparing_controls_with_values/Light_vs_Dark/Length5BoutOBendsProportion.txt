@@ -1,0 +1,32 @@
+"Length5BoutOBendsProportion"
+"TimeFactor" -0.0766969951669076
+"GroupControl_Light" 0
+"TimeFactor:GroupControl_Light" 0
+"Light_Length5BoutOBendsProportion"
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"Dark_Length5BoutOBendsProportion"
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0

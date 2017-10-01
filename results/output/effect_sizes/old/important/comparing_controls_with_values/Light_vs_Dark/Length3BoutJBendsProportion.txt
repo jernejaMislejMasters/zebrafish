@@ -1,0 +1,32 @@
+"Length3BoutJBendsProportion"
+"TimeFactor" 0
+"GroupControl_Dark" -0.340719610973401
+"TimeFactor:GroupControl_Dark" 0
+"Light_Length3BoutJBendsProportion"
+3
+4
+5
+4
+3
+4
+4
+4
+4
+4
+4
+4
+4
+"Dark_Length3BoutJBendsProportion"
+2
+2
+3
+3
+4
+3
+4
+3
+4
+3
+4
+3
+3
